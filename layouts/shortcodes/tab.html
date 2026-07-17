@@ -1,0 +1,4 @@
+{{ $num := .Get 0 }}
+{{ $id := printf "tab-%s" ($num | urlize) }}
+
+<a href="#{{ $id }}" class="table-ref" data-popover="true" data-table-id="{{ $id }}" data-no-preview="true">Table {{ $num }}</a>

@@ -1,0 +1,54 @@
+{{- $destination := .Destination -}}
+{{- $url := urls.Parse $destination -}}
+{{- $page := "" -}}
+
+{{- if not $url.IsAbs -}}
+  {{- $page = site.GetPage $url.Path -}}
+  {{- if not $page -}}
+    {{- $page = .Page.GetPage $destination -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $page -}}
+  <a href="{{ .Destination | safeURL }}"
+     class="internal-link font-semibold text-primary-600 dark:text-primary-400 hover:underline decoration-2 underline-offset-4"
+     title="{{ $page.Title }}"
+     data-popover="true">
+     {{- .Text | safeHTML -}}
+  </a>
+  
+  <template>
+    <!-- We use inline styles here to guarantee size and width regardless of Tailwind -->
+    <div style="width: 450px; max-width: 90vw; text-align: left; display: flex; flex-direction: column;">
+      
+      <!-- Sticky Header: Stays put while you scroll -->
+      <div style="padding-bottom: 8px; margin-bottom: 8px; border-bottom: 1px solid var(--color-primary-500); flex-shrink: 0;">
+        <h4 class="m-0 font-bold text-lg leading-tight text-neutral-900 dark:text-neutral-100">
+          {{ $page.Title }}
+        </h4>
+        {{ if $page.Params.tags }}
+        <div class="text-xs text-primary-600 dark:text-primary-400 mt-1 font-mono font-semibold">
+          {{ range $page.Params.tags }}#{{ . }} {{ end }}
+        </div>
+        {{ end }}
+      </div>
+
+      <!-- The Scrolling Window: Fixed height with auto-overflow -->
+      <div style="max-height: 350px; overflow-y: auto; padding-right: 10px;" class="custom-scrollbar prose prose-sm dark:prose-invert">
+         {{ $page.Content }}
+      </div>
+
+    </div>
+  </template>
+
+{{ else }}
+<a href="{{ .Destination | safeURL }}" 
+   {{ if $url.IsAbs }}target="_blank" rel="noopener noreferrer"{{ end }}
+   {{ with .Attributes.data_popover }}data-popover="{{ . }}"{{ end }}
+   {{ with .Attributes.data_equation_id }}data-equation-id="{{ . }}"{{ end }}
+   {{ with .Attributes.data_figure_id }}data-figure-id="{{ . }}"{{ end }}
+   {{ with .Attributes.data_table_id }}data-table-id="{{ . }}"{{ end }}
+   {{ with .Title }}title="{{ . }}"{{ end }}>
+{{ .Text | safeHTML }}
+</a>
+{{ end }}

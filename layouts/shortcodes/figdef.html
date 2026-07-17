@@ -1,0 +1,11 @@
+{{ $num := .Get "num" }}
+{{ $src := .Get "src" }}
+{{ $cap := .Get "caption" }}
+{{ $id := printf "fig-%s" ($num | urlize) }}
+
+<figure id="{{ $id }}" style="text-align: center; margin: 2.5rem 0;">
+  <img src="{{ $src }}" alt="{{ $cap }}" style="max-width: 100%; height: auto; border-radius: 8px; display: inline-block;">
+  <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: var(--color-neutral-600);">
+    <strong>Figure {{ $num }}:</strong> {{ $cap }}
+  </figcaption>
+</figure>

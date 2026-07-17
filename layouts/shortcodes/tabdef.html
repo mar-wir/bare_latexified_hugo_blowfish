@@ -1,0 +1,12 @@
+{{ $num := .Get "num" }}
+{{ $cap := .Get "caption" }}
+{{ $id := printf "tab-%s" ($num | urlize) }}
+
+<figure id="{{ $id }}" class="hugo-table-figure">
+  <div class="hugo-table-wrapper">
+    {{ .Inner | markdownify }}
+  </div>
+  <figcaption class="hugo-table-caption">
+    <strong>Table {{ $num }}:</strong> {{ $cap }}
+  </figcaption>
+</figure>

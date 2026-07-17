@@ -1,0 +1,61 @@
+{{ if .IsNamedParams }}
+  {{ $.Scratch.Set "icon" (default "triangle-exclamation" (.Get "icon") ) }}
+  {{ $.Scratch.Set "cardColor" (.Get "cardColor") }}
+  {{ $.Scratch.Set "cardColorDark" (.Get "cardColorDark") }}
+  {{ $.Scratch.Set "iconColor" (.Get "iconColor") }}
+  {{ $.Scratch.Set "iconColorDark" (.Get "iconColorDark") }}
+  {{ $.Scratch.Set "textColor" (.Get "textColor") }}
+  {{ $.Scratch.Set "textColorDark" (.Get "textColorDark") }}
+{{ else }}
+  {{ $.Scratch.Set "icon" (default "triangle-exclamation" (.Get 0) ) }}
+{{ end }}
+
+{{ $cardColor := $.Scratch.Get "cardColor" }}
+{{ $cardColorDark := $.Scratch.Get "cardColorDark" }}
+{{ $iconColor := $.Scratch.Get "iconColor" }}
+{{ $iconColorDark := $.Scratch.Get "iconColorDark" }}
+{{ $textColor := $.Scratch.Get "textColor" }}
+{{ $textColorDark := $.Scratch.Get "textColorDark" }}
+
+<div
+  {{ if not $cardColor }}
+    class="flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900"
+  {{ else }}
+    class="flex px-4 py-3 rounded-md shadow alert-custom"
+    {{ if $cardColorDark }}
+      style="--alert-bg-light: {{ $cardColor }}; --alert-bg-dark: {{ $cardColorDark }};"
+    {{ else }}
+      style="--alert-bg-light: {{ $cardColor }}; --alert-bg-dark: color-mix(in srgb, {{ $cardColor }} 15%, #0f172a);"
+    {{ end }}
+  {{ end }}
+  >
+  <span
+    {{ if not $iconColor }}
+      class="text-primary-400 pe-3 flex items-center"
+    {{ else }}
+      class="pe-3 flex items-center alert-icon-custom"
+      {{ if $iconColorDark }}
+        style="--icon-color-light: {{ $iconColor }}; --icon-color-dark: {{ $iconColorDark }};"
+      {{ else }}
+        style="--icon-color-light: {{ $iconColor }}; --icon-color-dark: color-mix(in srgb, {{ $iconColor }} 60%, #ffffff);"
+      {{ end }}
+    {{ end }}
+    >
+    {{ partial "icon.html" ($.Scratch.Get "icon") }}
+  </span>
+
+  <span
+    {{ if not $textColor }}
+      class="dark:text-neutral-300"
+    {{ else }}
+      class="alert-text-custom"
+      {{ if $textColorDark }}
+        style="--text-color-light: {{ $textColor }}; --text-color-dark: {{ $textColorDark }};"
+      {{ else }}
+        style="--text-color-light: {{ $textColor }}; --text-color-dark: color-mix(in srgb, {{ $textColor }} 40%, #f8fafc);"
+      {{ end }}
+    {{ end }}
+    >
+    {{- .Inner | markdownify -}}
+  </span>
+</div>

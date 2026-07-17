@@ -1,0 +1,61 @@
+{{- $targetId := trim (.Get 0) " " -}}
+{{- $ref := dict -}}
+
+{{- .Page.Scratch.Add "cited_refs" (slice $targetId) -}}
+
+{{- $refList := site.Data.references -}}
+{{- if reflect.IsMap $refList -}}
+  {{- range $k, $v := $refList -}}{{- if reflect.IsSlice $v -}}{{- $refList = $v -}}{{- end -}}{{- end -}}
+{{- end -}}
+
+{{- if reflect.IsSlice $refList -}}
+  {{- $matches := where $refList "id" $targetId -}}
+  {{- if $matches -}}{{- $ref = index $matches 0 -}}{{- end -}}
+{{- end -}}
+
+{{- if $ref -}}
+  {{- $authorName := "Unknown" -}}
+  {{- $authorList := index $ref "author" -}}
+  {{- if $authorList -}}
+    {{- $firstAuthor := index $authorList 0 -}}
+    {{- $authorName = index $firstAuthor "family" -}}
+    {{- if gt (len $authorList) 1 -}}{{- $authorName = print $authorName " et al." -}}{{- end -}}
+  {{- end -}}
+  {{- $year := "n.d." -}}
+  {{- $issuedList := index $ref "issued" -}}
+  {{- if $issuedList -}}
+    {{- $firstDate := index $issuedList 0 -}}
+    {{- if index $firstDate "year" -}}{{- $year = index $firstDate "year" -}}{{- end -}}
+  {{- end -}}
+  
+  <a href="#ref-{{ $targetId }}" class="citation internal-link" data-popover="true">{{ $authorName }}</a><template>
+    <div style="text-align: left; font-size: 0.9rem; padding: 0.25rem; line-height: 1.4;">
+      
+      {{- if $authorList -}}
+        {{- $len := len $authorList -}}
+        {{- range $index, $a := $authorList -}}
+          {{- if gt $index 0 -}}{{- if eq $index (sub $len 1) -}}, & {{- else -}}, {{- end -}}{{- end -}}
+          {{- index $a "family" -}}, {{ if index $a "given" }}{{ substr (index $a "given") 0 1 }}.{{ end -}}
+        {{- end -}}
+      {{- else -}}Unknown Author{{- end -}}
+      {{ " " }}
+      {{- if $issuedList -}}{{- $firstDate := index $issuedList 0 -}}{{- if index $firstDate "year" -}}({{ index $firstDate "year" }}).{{- else -}}(n.d.).{{- end -}}{{- else -}}(n.d.).{{- end -}}
+      {{ " " }}
+      {{- $type := index $ref "type" -}}{{- $title := index $ref "title" -}}
+      {{- if eq $type "article-journal" -}}
+        {{ $title }}.
+        {{- if index $ref "container-title" }} <em>{{ index $ref "container-title" }}</em>{{ end -}}
+        {{- if index $ref "volume" }}, <em>{{ index $ref "volume" }}</em>{{ end -}}
+        {{- if index $ref "issue" }}({{ index $ref "issue" }}){{ end -}}
+        {{- if index $ref "page" }}, {{ index $ref "page" }}{{ end -}}.
+      {{- else -}}
+        <em>{{ $title }}</em>.
+        {{- if index $ref "publisher" }} {{ index $ref "publisher" }}.{{ end -}}
+      {{- end -}}
+      
+    </div>
+  </template> ({{ $year }})
+
+{{- else -}}
+  <span style="color: red; font-weight: bold;">[Missing: {{ $targetId }}]</span>
+{{- end -}}

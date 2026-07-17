@@ -1,0 +1,8 @@
+{{- $eqNum := .Get 0 -}}
+{{- $targetId := printf "eq-%s" ($eqNum | urlize) -}}
+
+<a href="#{{ $targetId }}" 
+   class="equation-ref" 
+   data-popover="true"
+   data-equation-id="{{ $targetId }}"
+   data-no-preview="true">Equation {{ $eqNum }}</a>

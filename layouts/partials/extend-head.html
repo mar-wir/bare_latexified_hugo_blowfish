@@ -1,0 +1,111 @@
+<!-- Load Tippy and Popper -->
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+<script src="https://unpkg.com/tippy.js@6"></script>
+
+<!-- Load Tippy Styles & Animations -->
+<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/dist/tippy.css" />
+<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light-border.css" />
+<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/shift-away.css" />
+
+<!-- Initialize Tippy for Templates -->
+<script>
+(function initTippy() {
+    if (typeof tippy === 'function' && document.querySelectorAll('a[data-popover="true"]').length > 0) {
+      const isDarkMode = document.documentElement.classList.contains('dark');
+
+tippy('a[data-popover="true"]', {
+        content(reference) {
+          // 1. Check for live-clone targets
+          if (reference.hasAttribute('data-equation-id')) return '<div class="math-loading">Loading equation...</div>';
+          if (reference.hasAttribute('data-figure-id')) return '<div class="math-loading">Loading figure...</div>';
+          if (reference.hasAttribute('data-table-id')) return '<div class="math-loading">Loading table...</div>';
+          
+          // 2. Otherwise, assume it's a page preview and get the template
+          const template = reference.nextElementSibling;
+          return template ? template.innerHTML : '';
+        },
+        allowHTML: true,
+        theme: isDarkMode ? 'default' : 'light-border',
+        interactive: true,
+        delay: [400, 100],
+        animation: 'shift-away',
+        placement: 'auto-start',
+        maxWidth: 'none', 
+        appendTo: document.body,
+        
+onShow(instance) {
+          const ref = instance.reference;
+          const eqId = ref.getAttribute('data-equation-id');
+          const figId = ref.getAttribute('data-figure-id');
+          const tabId = ref.getAttribute('data-table-id');
+          
+          // Determine which ID we are targeting
+          const targetId = eqId || figId || tabId;
+          
+          if (targetId) {
+            const source = document.getElementById(targetId);
+            if (source) {
+              const clone = source.cloneNode(true);
+              
+              // Clean up specific elements
+              if (eqId) {
+                const tag = clone.querySelector('.tag');
+                if (tag) tag.remove();
+              }
+              if (figId || tabId) {
+                clone.style.margin = '0'; 
+                clone.style.padding = '0';
+              }
+
+
+
+              // Create a typography wrapper to preserve table/text styling
+              const wrapper = document.createElement('div');
+              
+              // Apply Tailwind/Blowfish typography classes
+              wrapper.className = 'prose prose-sm dark:prose-invert max-w-none';
+              wrapper.style.padding = '10px';
+              
+              wrapper.appendChild(clone);
+              instance.setContent(wrapper);
+            }
+          }
+        },
+        
+        onShown(instance) {
+          if (typeof renderMathInElement === 'function') {
+            renderMathInElement(instance.popper, {
+              delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+              ]
+            });
+          }
+        }
+      });
+      
+    } else {
+      setTimeout(initTippy, 100);
+    }
+  })();
+</script>
+
+
+<!-- Make math -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" 
+  onload="renderMathInElement(document.body, {
+    delimiters: [
+      {left: '$$', right: '$$', display: true},
+      {left: '$', right: '$', display: false},
+      {left: '\\(', right: '\\)', display: false},
+      {left: '\\[', right: '\\]', display: true}
+    ]
+  });">
+</script>
+

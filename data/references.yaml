@@ -1,0 +1,2633 @@
+---
+references:
+- id: alexanderPatternLanguageTowns2017
+  author:
+    - family: Alexander
+      given: Christopher
+    - family: Ishikawa
+      given: Sara
+    - family: Silverstein
+      given: Murray
+    - family: Jacobson
+      given: Max
+  citation-key: alexanderPatternLanguageTowns2017
+  collection-number: '2'
+  collection-title: Center for Environmental Structure series
+  edition: 41. print
+  ISBN: 978-0-19-501919-3
+  issued:
+    - year: 2017
+  language: en
+  number-of-pages: '1171'
+  publisher: Oxford Univ. Press
+  publisher-place: New York, NY
+  source: K10plus ISBN
+  title: 'A pattern language: towns, buildings, construction'
+  title-short: A pattern language
+  type: book
+
+- id: ashbyIntroductionCybernetics2015
+  abstract: >-
+    "Cybernetics offers the hope of providing effective methods for the study,
+    and control, of systems that are intrinsically extremely complex. It will do
+    this by first marking out what is achievable (for probably many of the
+    investiagions of the past attempted the impossible), and then providing
+    generalised strategies, of demonstable value, that can be used uniformly in
+    a variety of special cases. In this way it offers the hope of providing the
+    essential methods by which to attack the ils--psychological, social,
+    economic--which at present are defeating us by their instrinsic
+    complexity."--Chapter 1, pages 6-7
+  author:
+    - family: Ashby
+      given: W. Ross
+  citation-key: ashbyIntroductionCybernetics2015
+  ISBN: 978-1-61427-765-1
+  issued:
+    - year: 2015
+  language: en
+  note: 'OCLC: 960267567'
+  publisher: Martino Publishing
+  publisher-place: Mansfield Centre, CT
+  source: Open WorldCat
+  title: An introduction to cybernetics
+  type: book
+
+- id: beerBrainFirm1995
+  author:
+    - family: Beer
+      given: Stafford
+  citation-key: beerBrainFirm1995
+  collection-title: The managerial cybernetics of organization / Stafford Beer
+  edition: 2. ed., reprinted
+  ISBN: 978-0-471-27687-6 978-0-471-94839-1
+  issued:
+    - year: 1995
+  language: en
+  number-of-pages: '417'
+  publisher: John Wiley & Sons
+  publisher-place: Chichester
+  source: K10plus ISBN
+  title: Brain of the firm
+  type: book
+
+- id: beerDesigningFreedom1993
+  author:
+    - family: Beer
+      given: Stafford
+  citation-key: beerDesigningFreedom1993
+  ISBN: 978-0-88784-547-5
+  issued:
+    - year: 1993
+  language: spanish
+  note: 'OCLC: 991665022'
+  publisher: House of Anansi Press
+  publisher-place: Toronto (Canada)
+  source: Open WorldCat
+  title: Designing freedom
+  type: book
+
+- id: beerDiagnosingSystemOrganizations1985
+  author:
+    - family: Beer
+      given: Stafford
+  call-number: HD58.9 .B44 1985
+  citation-key: beerDiagnosingSystemOrganizations1985
+  collection-title: The Managerial cybernetics of organization
+  ISBN: 978-0-471-90675-9
+  issued:
+    - year: 1985
+  number-of-pages: '152'
+  publisher: Wiley
+  publisher-place: Chichester [West Sussex] ; New York
+  source: Library of Congress ISBN
+  title: Diagnosing the system for organizations
+  type: book
+
+- id: beerHeartEnterprise1979
+  author:
+    - family: Beer
+      given: Stafford
+  call-number: HD30.25 .B43
+  citation-key: beerHeartEnterprise1979
+  collection-number: '2'
+  collection-title: Managerial cybernetics of organization
+  ISBN: 978-0-471-27599-2
+  issued:
+    - year: 1979
+  language: en
+  number-of-pages: '582'
+  publisher: Wiley
+  publisher-place: Chichester [Eng.] ; New York
+  source: Library of Congress ISBN
+  title: The heart of enterprise
+  type: book
+
+- id: beerPlatformChangeMessage1975
+  author:
+    - family: Beer
+      given: Stafford
+  call-number: Q295 .B28
+  citation-key: beerPlatformChangeMessage1975
+  ISBN: 978-0-471-06189-2
+  issued:
+    - year: 1975
+  number-of-pages: '457'
+  publisher: Wiley
+  publisher-place: London, New York
+  source: Library of Congress ISBN
+  title: 'Platform for change: a message from Stafford Beer'
+  title-short: Platform for change
+  type: book
+
+- id: bertalanffyGeneralSystemTheory1988
+  author:
+    - family: Bertalanffy
+      given: Ludwig
+      dropping-particle: von
+  citation-key: bertalanffyGeneralSystemTheory1988
+  edition: Rev. ed., 10. print
+  ISBN: 978-0-8076-0452-6 978-0-8076-0453-3
+  issued:
+    - year: 1988
+  language: en
+  number-of-pages: '295'
+  publisher: Braziller
+  publisher-place: New York
+  source: K10plus ISBN
+  title: 'General system theory: foundations, development, applications'
+  title-short: General system theory
+  type: book
+
+- id: breakspearDynamicModelsLargescale2017
+  accessed:
+    - year: 2025
+      month: 10
+      day: 26
+  author:
+    - family: Breakspear
+      given: Michael
+  citation-key: breakspearDynamicModelsLargescale2017
+  container-title: Nature Neuroscience
+  container-title-short: Nat Neurosci
+  DOI: 10.1038/nn.4497
+  ISSN: 1097-6256, 1546-1726
+  issue: '3'
+  issued:
+    - year: 2017
+      month: 3
+  language: en
+  page: 340–352
+  source: DOI.org (Crossref)
+  title: Dynamic models of large-scale brain activity
+  type: article-journal
+  URL: https://www.nature.com/articles/nn.4497
+  volume: '20'
+
+- id: camuffoScientificApproachEntrepreneurial2020
+  abstract: >-
+    A classical approach to collecting and elaborating information to make
+    entrepreneurial decisions combines search heuristics, such as trial and
+    error, effectuation, and conﬁrmatory search. This paper develops a framework
+    for exploring the implications of a more scientiﬁc approach to
+    entrepreneurial decision making. The panel sample of our randomized control
+    trial includes 116 Italian startups and 16 data points over a period of
+    about one year. Both the treatment and control groups receive 10 sessions of
+    general training on how to obtain feedback from the market and gauge the
+    feasibility of their idea. We teach the treated startups to develop
+    frameworks for predicting the performance of their idea and conduct rigorous
+    tests of their hypotheses, very much as scientists do in their research. We
+    let the ﬁrms in the control group instead follow their intuitions about how
+    to assess their idea, which has typically produced fairly standard search
+    heuristics. We ﬁnd that entrepreneurs who behave like scientists perform
+    better, are more likely to pivot to a different idea, and are not more
+    likely to drop out than the control group in the early stages of the
+    startup. These results are consistent with the main prediction of our
+    theory: a scientiﬁc approach improves precision—it reduces the odds of
+    pursuing projects with false positive returns and increases the odds of
+    pursuing projects with false negative returns.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 1
+  author:
+    - family: Camuffo
+      given: Arnaldo
+    - family: Cordova
+      given: Alessandro
+    - family: Gambardella
+      given: Alfonso
+    - family: Spina
+      given: Chiara
+  citation-key: camuffoScientificApproachEntrepreneurial2020
+  container-title: Management Science
+  container-title-short: Management Science
+  DOI: 10.1287/mnsc.2018.3249
+  ISSN: 0025-1909, 1526-5501
+  issue: '2'
+  issued:
+    - year: 2020
+      month: 2
+  language: en
+  page: 564–586
+  source: DOI.org (Crossref)
+  title: >-
+    A Scientific Approach to Entrepreneurial Decision Making: Evidence from a
+    Randomized Control Trial
+  title-short: A Scientific Approach to Entrepreneurial Decision Making
+  type: article-journal
+  URL: https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3249
+  volume: '66'
+
+- id: camuffoScientificApproachEntrepreneurial2024
+  abstract: >-
+    Research Summary: This article runs a large-scale replication of Camuffo and
+    colleagues in 2020, involving 759 firms in four randomized control trials.
+    The larger sample generates novel and more precise insights about the
+    teachability and implications of a scientific approach in entrepreneurship.
+    We observe a positive impact on idea termination and results that are
+    consistent with a nonlinear effect on radical pivots, with treated firms
+    running few over no or repeated pivots. We provide a theoretical
+    interpretation of the empirical results: the scientific approach enhances
+    entrepreneurs' efficiency in searching for viable ideas and raises their
+    methodic doubt because, like scientists, they realize that there may be
+    alternative scenarios from the ones that they theorize.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 1
+  author:
+    - family: Camuffo
+      given: Arnaldo
+    - family: Gambardella
+      given: Alfonso
+    - family: Messinese
+      given: Danilo
+    - family: Novelli
+      given: Elena
+    - family: Paolucci
+      given: Emilio
+    - family: Spina
+      given: Chiara
+  citation-key: camuffoScientificApproachEntrepreneurial2024
+  container-title: Strategic Management Journal
+  container-title-short: Strategic Management Journal
+  DOI: 10.1002/smj.3580
+  ISSN: 0143-2095, 1097-0266
+  issue: '6'
+  issued:
+    - year: 2024
+      month: 6
+  language: en
+  page: 1209–1237
+  source: DOI.org (Crossref)
+  title: >-
+    A Scientific Approach to Entrepreneurial Decision Making: Large‐Scale
+    Replication and Extension
+  title-short: A scientific approach to entrepreneurial decision‐making
+  type: article-journal
+  URL: https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.3580
+  volume: '45'
+
+- id: capraSystemsViewLife2022
+  accessed:
+    - year: 2025
+      month: 10
+      day: 10
+  author:
+    - family: Capra
+      given: Fritjof
+  citation-key: capraSystemsViewLife2022
+  container-author:
+    - family: Montuori
+      given: Alfonso
+    - family: Donnelly
+      given: Gabrielle
+  container-title: Routledge Handbook for Creative Futures
+  DOI: 10.4324/9781003020714-6
+  edition: '1'
+  ISBN: 978-1-003-02071-4
+  issued:
+    - year: 2022
+      month: 11
+      day: 30
+  language: en
+  page: 38–43
+  publisher: Routledge
+  publisher-place: London
+  source: DOI.org (Crossref)
+  title: The Systems View of Life
+  type: chapter
+  URL: >-
+    https://www.taylorfrancis.com/books/9781003020714/chapters/10.4324/9781003020714-6
+
+- id: colelliPatternedTheoryInner2025
+  abstract: >-
+    This article lays the groundwork for a patterned theory of inner speech by
+    rethinking Vygotsky’s notion of internalization in light of 4E cognitive
+    science and phenomenology. We begin by revisiting Vygotsky’s view of
+    linguistic development as a dynamic and socially mediated process of
+    transformation, central to the formation of subjectivity. Rather than
+    treating internalization as a simple transfer of external norms, we focus on
+    it as a developmental process that mediates the reorganization of the
+    agent’s intra-psychic structures. This reorganization is understood as
+    affecting the functional architecture of the mind, involving both cognitive
+    and non-cognitive capacities—such as bodily, affective, and symbolic
+    resources—integrated within intentional activity. Building on this
+    reinterpretation, we critically engage with the 4E paradigm, highlighting
+    how enactive and extended approaches often leave underexplored the internal
+    structuring effects of linguistic practices. To address this, we propose
+    that phenomenology offers the appropriate descriptive tools to trace the
+    emergence of patterned forms of inner speech as they are lived and
+    experienced. To address this, we propose that phenomenology offers the
+    appropriate descriptive tools to trace the emergence of patterned forms of
+    inner speech as they are lived and experienced. Inner speech, in this view,
+    emerges within a newly constituted inner space of the mind—a structural
+    feature of intentional experience that is shaped by embodied and social
+    interactions, while also shaping how the agent interprets, evaluates, and
+    acts in the world.
+  accessed:
+    - year: 2026
+      month: 4
+      day: 9
+  author:
+    - family: Colelli
+      given: J.
+    - family: Di Bernardo
+      given: M.
+    - family: Verde
+      given: F.
+  citation-key: colelliPatternedTheoryInner2025
+  container-title: Mind & Society
+  container-title-short: Mind Soc
+  DOI: 10.1007/s11299-025-00319-y
+  ISSN: 1593-7879, 1860-1839
+  issue: '1'
+  issued:
+    - year: 2025
+      month: 6
+  language: en
+  page: 91–107
+  source: DOI.org (Crossref)
+  title: >-
+    Toward a patterned theory of inner speech: rethinking Vygotsky through 4E
+    cognition and phenomenology
+  title-short: Toward a patterned theory of inner speech
+  type: article-journal
+  URL: https://link.springer.com/10.1007/s11299-025-00319-y
+  volume: '24'
+
+- id: dayVariedSolutionsMulticellularity2022
+  abstract: >-
+    The diversity of multicellular organisms is, in large part, due to the fact
+    that multicellularity has independently evolved many times. Nonetheless,
+    multicellular organisms all share a universal biophysical trait: cells are
+    attached to each other. All mechanisms of cellular attachment belong to one
+    of two broad classes; intercellular bonds are either reformable or they are
+    not. Both classes of multicellular assembly are common in nature, having
+    independently evolved dozens of times. In this review, we detail these
+    varied mechanisms as they exist in multicellular organisms. We also discuss
+    the evolutionary implications of different intercellular attachment
+    mechanisms on nascent multicellular organisms. The type of intercellular
+    bond present during early steps in the transition to multicellularity
+    constrains future evolutionary and biophysical dynamics for the lineage,
+    affecting the origin of multicellular life cycles, cell–cell communication,
+    cellular differentiation, and multicellular morphogenesis. The types of
+    intercellular bonds used by multicellular organisms may thus result in some
+    of the most impactful historical constraints on the evolution of
+    multicellularity.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 19
+  author:
+    - family: Day
+      given: Thomas C.
+    - family: Márquez-Zacarías
+      given: Pedro
+    - family: Bravo
+      given: Pablo
+    - family: Pokhrel
+      given: Aawaz R.
+    - family: MacGillivray
+      given: Kathryn A.
+    - family: Ratcliff
+      given: William C.
+    - family: Yunker
+      given: Peter J.
+  citation-key: dayVariedSolutionsMulticellularity2022
+  container-title: Biophysics Reviews
+  DOI: 10.1063/5.0080845
+  ISSN: 2688-4089
+  issue: '2'
+  issued:
+    - year: 2022
+      month: 6
+      day: 1
+  language: en
+  page: '021305'
+  source: DOI.org (Crossref)
+  title: >-
+    Varied solutions to multicellularity: The biophysical and evolutionary
+    consequences of diverse intercellular bonds
+  title-short: Varied solutions to multicellularity
+  type: article-journal
+  URL: >-
+    https://pubs.aip.org/bpr/article/3/2/021305/2835543/Varied-solutions-to-multicellularity-The
+  volume: '3'
+
+- id: dejaegherParticipatorySensemakingEnactive2007
+  abstract: >-
+    As yet, there is no enactive account of social cognition. This paper extends
+    the enactive concept of sense-making into the social domain. It takes as its
+    departure point the process of interaction between individuals in a social
+    encounter. It is a well-established finding that individuals can and
+    generally do coordinate their movements and utterances in such situations.
+    We argue that the interaction process can take on a form of autonomy. This
+    allows us to reframe the problem of social cognition as that of how meaning
+    is generated and transformed in the interplay between the unfolding
+    interaction process and the individuals engaged in it. The notion of
+    sense-making in this realm becomes participatory sense-making. The onus of
+    social understanding thus moves away from strictly the individual only.
+  accessed:
+    - year: 2026
+      month: 3
+      day: 19
+  author:
+    - family: De Jaegher
+      given: Hanne
+    - family: Di Paolo
+      given: Ezequiel
+  citation-key: dejaegherParticipatorySensemakingEnactive2007
+  container-title: Phenomenology and the Cognitive Sciences
+  container-title-short: Phenom Cogn Sci
+  DOI: 10.1007/s11097-007-9076-9
+  ISSN: 1568-7759, 1572-8676
+  issue: '4'
+  issued:
+    - year: 2007
+      month: 12
+  language: en
+  license: http://www.springer.com/tdm
+  page: 485–507
+  source: DOI.org (Crossref)
+  title: 'Participatory sense-making: An enactive approach to social cognition'
+  title-short: Participatory sense-making
+  type: article-journal
+  URL: http://link.springer.com/10.1007/s11097-007-9076-9
+  volume: '6'
+
+- id: developmentconceptsanddoctrinecentreRedTeamingHandbook2012
+  author:
+    - literal: Development, Concepts and Doctrine Centre
+  citation-key: developmentconceptsanddoctrinecentreRedTeamingHandbook2012
+  edition: Third Edition
+  issued:
+    - year: 2012
+      month: 1
+      day: 1
+  language: en
+  publisher: Ministry of Defence
+  source: Zotero
+  title: Red Teaming Handbook
+  type: book
+
+- id: donaldsonContingencyTheoryOrganizations2001
+  accessed:
+    - year: 2026
+      month: 4
+      day: 12
+  author:
+    - family: Donaldson
+      given: Lex
+  citation-key: donaldsonContingencyTheoryOrganizations2001
+  DOI: 10.4135/9781452229249
+  ISBN: 978-0-7619-1574-4 978-1-4522-2924-9
+  issued:
+    - year: 2001
+  publisher: SAGE Publications, Inc.
+  publisher-place: "2455 Teller Road,\_Thousand Oaks\_California\_91320\_United States"
+  source: DOI.org (Crossref)
+  title: The Contingency Theory of Organizations
+  type: book
+  URL: https://sk.sagepub.com/books/the-contingency-theory-of-organizations
+
+- id: duynebarensteinHowAccessibleAffordable2020
+  abstract: >-
+    In a global context characterised by governmental withdrawal from the
+    housing sector, the commodification of housing, and the inability of the
+    private sector to cater to the needs of low-income people, housing
+    cooperatives are being rediscovered as a third way in the provision of
+    affordable housing. Housing cooperatives in Switzerland emerged towards the
+    end of the 19th century as bottom-up organisations in a context of rapid
+    industrialisation and urbanisation characterised by acute housing shortages.
+    Poor housing conditions and excessive rents threatened public health and
+    social order, thus forcing municipal governments to respond to this crisis
+    in an intellectual and political context that was shaped by the growth of
+    the international labour organisations. Historically and geographically, the
+    formation of housing cooperatives has been highly uneven and largely
+    concentrated in urban areas. In fact, their emergence was contingent upon
+    local political initiatives that forced municipal governments to intervene
+    in the housing sector. Housing cooperatives thus became key partners in the
+    implementation of social housing policies that made it possible for the
+    state to engage only marginally in the provision of affordable housing. As
+    opposed to other European countries where neoliberal reforms led to a
+    gradual commodification of cooperative housing this is not the case of
+    Switzerland, where housing owned by cooperatives remains permanently
+    withdrawn from speculation. But are housing cooperatives in a position to
+    respond to the growing need of affordable housing? How affordable are
+    housing cooperatives in comparison to housing provided by the private rental
+    market? How accessible are housing cooperatives to those most in need? And
+    how protected are housing cooperatives from commodification risks?
+  accessed:
+    - year: 2026
+      month: 3
+      day: 26
+  author:
+    - family: Duyne Barenstein
+      given: Jennifer
+    - family: Koch
+      given: Philippe
+  citation-key: duynebarensteinHowAccessibleAffordable2020
+  contributor:
+    - literal: ETH Zurich
+  DOI: 10.3929/ETHZ-C-000783009
+  issued:
+    - year: 2020
+      month: 8
+      day: 1
+  language: en
+  license: >-
+    http://rightsstatements.org/page/InC-NC/1.0/, In Copyright - Non-Commercial
+    Use Permitted
+  medium: application/pdf
+  publisher: ETH Wohnforum – ETH CASE
+  source: DOI.org (Datacite)
+  title: >-
+    How accessible and affordable are Swiss housing cooperatives? Insights and
+    reflections on housing policies in Switzerland
+  title-short: How accessible and affordable are Swiss housing cooperatives?
+  type: article-journal
+  URL: https://www.research-collection.ethz.ch/handle/20.500.11850/783009
+
+- id: duynebarensteinServiceProvidersCivil2020
+  abstract: >-
+    This paper provides an overview of the role of housing cooperatives and
+    their associations in the Swiss housing system. Our research indicates that
+    housing cooperatives that historically emerged from working class movements
+    over the years became primarily concerned with maintaining the housing stock
+    of their members. While showing a high degree of internal solidarity towards
+    members, they hardly engaged in acts of external solidarity. We thus shift
+    our focus on housing cooperatives’ associations (CHAs) by interviewing the
+    board members of five regional and one national CHA. Our findings show that
+    when it comes to engage in acts of external solidarity, CHAs must cope with
+    external and internal pressures and mediate between the logics of membership
+    and of influence. We describe the dilemmas with whom CHAs are confronted and
+    their coping strategies. We argue that to remain politically relevant and
+    contribute to tackling the current housing crisis, CHAs need to focus on
+    housing politics as much as on housing policy.
+  accessed:
+    - year: 2026
+      month: 3
+      day: 26
+  author:
+    - family: Duyne Barenstein
+      given: Jennifer
+    - family: Koch
+      given: Philippe
+  citation-key: duynebarensteinServiceProvidersCivil2020
+  contributor:
+    - literal: ETH Zurich
+  DOI: 10.3929/ETHZ-C-000783991
+  issued:
+    - year: 2020
+  language: en
+  license: >-
+    http://rightsstatements.org/page/InC-NC/1.0/, In Copyright - Non-Commercial
+    Use Permitted
+  medium: application/pdf
+  publisher: ETH Wohnforum – ETH CASE
+  source: DOI.org (Datacite)
+  title: Service providers or civil society activists?
+  type: article-journal
+  URL: https://www.research-collection.ethz.ch/handle/20.500.11850/783991
+
+- id: eikmeierRedefiningCenterGravity
+  author:
+    - family: Eikmeier
+      given: Dale C
+  citation-key: eikmeierRedefiningCenterGravity
+  language: en
+  source: Zotero
+  title: Redefining the Center of Gravity
+  type: article-journal
+
+- id: eisenmannHypothesisDrivenEntrepreneurshipLean2012
+  author:
+    - family: Eisenmann
+      given: Thomas
+    - family: Ries
+      given: Eric
+    - family: Dillard
+      given: Sarah
+  citation-key: eisenmannHypothesisDrivenEntrepreneurshipLean2012
+  genre: Management Case
+  issued:
+    - year: 2012
+      month: 11
+      day: 8
+  language: en
+  number: 812-095
+  publisher: Harvard Business School
+  source: Zotero
+  title: 'Hypothesis-Driven Entrepreneurship: The Lean Startup'
+  type: report
+  URL: ttps://ssrn.com/abstract=2037237
+
+- id: erezImpactParticipationGoal1985
+  abstract: >-
+    Past research has tested goal setting strategies and found high and
+    invariant levels of goal acceptance. The present research consisted of two
+    studies-one laboratory and one field experiment-hypothesizing a twostep
+    model (participation 1L acceptance .2- performance) with which participation
+    could be tested more effectively. Stepwise, hierarchical regression analyses
+    demonstrated that the participative and representative groups outperformed
+    the assigned groups under conditions in which individual goal acceptance
+    varied. The findings support the twostep model and offer an explanation as
+    to why previous research has failed to differentiate empirically between
+    participative and assigned goal setting.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 20
+  author:
+    - family: Erez
+      given: M.
+    - family: Earley
+      given: P. C.
+    - family: Hulin
+      given: C. L.
+  citation-key: erezImpactParticipationGoal1985
+  container-title: Academy of Management Journal
+  container-title-short: Academy of Management Journal
+  DOI: 10.2307/256061
+  ISSN: 0001-4273, 1948-0989
+  issue: '1'
+  issued:
+    - year: 1985
+      month: 3
+      day: 1
+  language: en
+  page: 50–66
+  source: DOI.org (Crossref)
+  title: >-
+    The Impact of Participation on Goal Acceptance and Performance: A Two-Step
+    Model.
+  title-short: THE IMPACT OF PARTICIPATION ON GOAL ACCEPTANCE AND PERFORMANCE
+  type: article-journal
+  URL: http://amj.aom.org/cgi/doi/10.2307/256061
+  volume: '28'
+
+- id: espejoOrganizationalSystemsManaging2011
+  accessed:
+    - year: 2026
+      month: 5
+      day: 29
+  author:
+    - family: Espejo
+      given: Raul
+    - family: Reyes
+      given: Alfonso
+  citation-key: espejoOrganizationalSystemsManaging2011
+  DOI: 10.1007/978-3-642-19109-1
+  ISBN: 978-3-642-19108-4 978-3-642-19109-1
+  issued:
+    - year: 2011
+  language: en
+  license: https://www.springernature.com/gp/researchers/text-and-data-mining
+  publisher: Springer Berlin Heidelberg
+  publisher-place: Berlin, Heidelberg
+  source: DOI.org (Crossref)
+  title: 'Organizational Systems: Managing Complexity with the Viable System Model'
+  title-short: Organizational Systems
+  type: book
+  URL: https://link.springer.com/10.1007/978-3-642-19109-1
+
+- id: felinEntrepreneursTheoristsOrigins2009
+  abstract: >-
+    What are the origins of entrepreneurial beliefs about new opportunities and
+    the value of resources? In this article, we outline a theory and model of
+    the emergence of entrepreneurial beliefs and novel strategies. We first
+    summarize extant literature by highlighting both the experiential and
+    perceptual (or observational) origins of entrepreneurial beliefs and
+    strategies. Thereafter we carefully explicate the role that entrepreneurial
+    theorizing plays in the emergence of novel beliefs about new opportunities
+    and make links with experiential and perceptual arguments. We specifically
+    discuss three key mechanisms of entrepreneurial theorizing, namely: (1) the
+    triggering role of experiential and observational fragments; (2) the
+    imagination of possibilities; and (3) reasoning and justification.
+    Importantly, we also explicate the social mechanisms of entrepreneurial
+    theorizing and the emergence of entrepreneurial beliefs and novel
+    strategies, specifically by discussing the role of social interaction and
+    self‐selection in entrepreneurial activity. Copyright © 2009 Strategic
+    Management Society
+  accessed:
+    - year: 2026
+      month: 1
+      day: 1
+  author:
+    - family: Felin
+      given: Teppo
+    - family: Zenger
+      given: Todd R.
+  citation-key: felinEntrepreneursTheoristsOrigins2009
+  container-title: Strategic Entrepreneurship Journal
+  container-title-short: Strategic Entrepreneurship
+  DOI: 10.1002/sej.67
+  ISSN: 1932-4391, 1932-443X
+  issue: '2'
+  issued:
+    - year: 2009
+      month: 6
+  language: en
+  license: http://onlinelibrary.wiley.com/termsAndConditions#vor
+  page: 127–146
+  source: DOI.org (Crossref)
+  title: >-
+    Entrepreneurs as theorists: on the origins of collective beliefs and novel
+    strategies
+  title-short: Entrepreneurs as theorists
+  type: article-journal
+  URL: https://sms.onlinelibrary.wiley.com/doi/10.1002/sej.67
+  volume: '3'
+
+- id: finleyEmbodiedCognitionGrip2025
+  abstract: >-
+    Embodied Cognition holds that bodily (e.g. sensorimotor) states and
+    processes are directly involved in some higher-level cognitive functions
+    (e.g. reasoning). This challenges traditional views of cognition according
+    to which bodily states and processes are, at most, indirectly involved in
+    higher-level cognition. Although some elements of Embodied Cognition have
+    been integrated into mainstream cognitive science, others still face adamant
+    resistance. In this paper, rather than straightforwardly defend Embodied
+    Cognition against specific objections I will do the following. First, I will
+    present a concise account of embodied conceptual processing and highlight
+    some of its advantages over non-embodied accounts, with a specific focus on
+    the role of metaphors. Second, I will detail the influence of computational
+    metaphors on theories of cognition and their effect on the evaluation of
+    these theories. Third, I will argue that embodied cognitive mechanisms,
+    specifically those operating through computational metaphors, may drive some
+    of the resistance to Embodied Cognition—and that Embodied Cognition is able
+    to offer a uniquely compelling account of this. Ultimately, this will
+    contribute to an improved understanding of Embodied Cognition, its
+    explanatory power, and how it ought to be evaluated. Additionally, it will
+    shed light on the role of metaphors in shaping philosophical thought and
+    highlight the importance of these influences.
+  accessed:
+    - year: 2026
+      month: 5
+      day: 18
+  author:
+    - family: Finley
+      given: Kate
+  citation-key: finleyEmbodiedCognitionGrip2025
+  container-title: Ergo an Open Access Journal of Philosophy
+  DOI: 10.3998/ergo.7136
+  ISSN: 2330-4014
+  issue: '0'
+  issued:
+    - year: 2025
+      month: 1
+      day: 23
+  license: https://creativecommons.org/licenses/by-nc-nd/4.0
+  source: DOI.org (Crossref)
+  title: Embodied Cognition and the Grip of Computational Metaphors
+  type: article-journal
+  URL: https://journals.publishing.umich.edu/ergo/article/id/7136/
+  volume: '12'
+
+- id: flemingHowMeasureMetacognition2014
+  abstract: >-
+    The ability to recognize one’s own successful cognitive processing, in e.g.,
+    perceptual or memory tasks, is often referred to as metacognition. How
+    should we quantitatively measure such ability? Here we focus on a class of
+    measures that assess the correspondence between trial-by-trial accuracy and
+    one’s own conﬁdence. In general, for healthy subjects endowed with
+    metacognitive sensitivity, when one is conﬁdent, one is more likely to be
+    correct. Thus, the degree of association between accuracy and conﬁdence can
+    be taken as a quantitative measure of metacognition. However, many studies
+    use a statistical correlation coefﬁcient (e.g., Pearson’s r) or its variant
+    to assess this degree of association, and such measures are susceptible to
+    undesirable inﬂuences from factors such as response biases. Here we review
+    other measures based on signal detection theory and receiver operating
+    characteristics (ROC) analysis that are “bias free,” and relate these
+    quantities to the calibration and discrimination measures developed in the
+    probability estimation literature. We go on to distinguish between the
+    related concepts of metacognitive bias (a difference in subjective conﬁdence
+    despite basic task performance remaining constant), metacognitive
+    sensitivity (how good one is at distinguishing between one’s own correct and
+    incorrect judgments) and metacognitive efﬁciency (a subject’s level of
+    metacognitive sensitivity given a certain level of task performance).
+    Finally, we discuss how these three concepts pose interesting questions for
+    the study of metacognition and conscious awareness.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 20
+  author:
+    - family: Fleming
+      given: Stephen M.
+    - family: Lau
+      given: Hakwan C.
+  citation-key: flemingHowMeasureMetacognition2014
+  container-title: Frontiers in Human Neuroscience
+  container-title-short: Front. Hum. Neurosci.
+  DOI: 10.3389/fnhum.2014.00443
+  ISSN: 1662-5161
+  issued:
+    - year: 2014
+      month: 7
+      day: 15
+  language: en
+  source: DOI.org (Crossref)
+  title: How to measure metacognition
+  type: article-journal
+  URL: http://journal.frontiersin.org/article/10.3389/fnhum.2014.00443/abstract
+  volume: '8'
+
+- id: gallagherExtendedMindState2018
+  abstract: >-
+    It has been twenty years since Clark and Chalmers published “The Extended
+    Mind.” In the present article I review the development of the extended mind
+    hypothesis across what some proponents have defined as three theoretical
+    “waves.” From first-wave extended mind theory, based on the parity
+    principle, to second-wave complementarity, to the third wave, characterized
+    as an uneasy integration of predictive processing and enactivist dynamics,
+    extended mind theorists have faced and solved a number of problems along the
+    way. The fact that the hypothesis continues to spark debate and to generate
+    both new insights and new objections suggests that it continues to play a
+    productive role in contemporary philosophy of mind.
+  accessed:
+    - year: 2026
+      month: 4
+      day: 1
+  author:
+    - family: Gallagher
+      given: Shaun
+  citation-key: gallagherExtendedMindState2018
+  container-title: The Southern Journal of Philosophy
+  container-title-short: The Southern J of Philosophy
+  DOI: 10.1111/sjp.12308
+  ISSN: 0038-4283, 2041-6962
+  issue: '4'
+  issued:
+    - year: 2018
+      month: 12
+  language: en
+  page: 421–447
+  source: DOI.org (Crossref)
+  title: 'The Extended Mind: State of the Question'
+  title-short: The Extended Mind
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/10.1111/sjp.12308
+  volume: '56'
+
+- id: gallagherInterpretationsEmbodiedCognition
+  author:
+    - family: Gallagher
+      given: Shaun
+  citation-key: gallagherInterpretationsEmbodiedCognition
+  language: en
+  source: Zotero
+  title: Interpretations of embodied cognition
+  type: article-journal
+
+- id: gallagherSociallyExtendedMind2013
+  abstract: >-
+    This paper contrasts conservative and liberal interpretations of the
+    extended mind hypothesis. The liberal view, defended here, considers
+    cognition to be socially extensive, in a way that goes beyond the typical
+    examples (involving notebooks and various technologies) rehearsed in the
+    extended mind literature, and in a way that takes cognition to involve
+    enactive processes (e.g., social aﬀordances), rather than functional
+    supervenience relations. The socially extended mind is in some cases
+    constituted not only in social interactions with others, but also in ways
+    that involve institutional structures, norms, and practices. Some of the
+    common objections to the extended mind are considered in relation to this
+    liberal interpretation. Implications for critical social theory are
+    explored.
+  accessed:
+    - year: 2026
+      month: 3
+      day: 17
+  author:
+    - family: Gallagher
+      given: Shaun
+  citation-key: gallagherSociallyExtendedMind2013
+  container-title: Cognitive Systems Research
+  container-title-short: Cognitive Systems Research
+  DOI: 10.1016/j.cogsys.2013.03.008
+  ISSN: '13890417'
+  issued:
+    - year: 2013
+      month: 12
+  language: en
+  license: https://www.elsevier.com/tdm/userlicense/1.0/
+  page: 4–12
+  source: DOI.org (Crossref)
+  title: The socially extended mind
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S1389041713000272
+  volume: 25–26
+
+- id: gigerenzerBoundedRationalityAdaptive2002
+  abstract: >-
+    Rethinking rationality / Gerd Gigerenzer and Reinhard Selten -- What is
+    bounded rationality? / Reinhard Selten -- The adaptive toolbox / Gerd
+    Gigerenzer -- Fast and frugal heuristics for environmentally bounded minds /
+    Peter M. Todd -- Evolutionary adaptation and the economic concept of bounded
+    rationality--a dialogue / Peter Hammerstein -- Group report : Is there
+    evidence for an adaptive toolbox? / Abdolkarim Sadrieh ... [et al.] -- The
+    fiction of optimization / Gary Klein -- Preferential choice and adaptive
+    strategy use / John W. Payne and James R. Bettman -- Comparing fast and
+    frugal heuristics and optimal models / Laura Martignon -- Group report : Why
+    and when do simple heuristics work? / Daniel G. Goldstein ... [et al.] --
+    Emotions and cost-benefit assessment : the role of shame and self-esteem in
+    risk taking / Daniel M.T. Fessler -- Simple reinforcement learning models
+    and reciprocation in the prisoner's dilemma game / Ido Erev and Alvin E.
+    Roth -- Imitation, social learning, and preparedness as mechanisms of
+    bounded rationality / Kevin N. Laland -- Decision making in superorganisms :
+    how collective wisdom arises from the poorly informed masses / Thomas D.
+    Seeley --Group report : Effects of emotions and social processes on bounded
+    rationality / Barbara A. Mellers ... [et al.] -- Norms and bounded
+    rationality / Robert Boyd and Peter J. Richerson -- Prominence theory as a
+    tool to model boundedly rational decisions / Wulf Albers -- Goodwill
+    accounting and the process of exchange / Kevin A. McCabe and Vernon L. Smith
+    -- Group report : What is the role of culture in bounded rationality? /
+    Joseph Henrich ... [et al.]
+  citation-key: gigerenzerBoundedRationalityAdaptive2002
+  edition: 1st MIT Press pbk. ed
+  editor:
+    - family: Gigerenzer
+      given: Gerd
+    - family: Selten
+      given: Reinhard
+    - literal: Dahlem Workshop on Bounded Rationality
+  event-title: Dahlem Workshop on Bounded Rationality
+  ISBN: 978-0-262-57164-7 978-0-262-27381-7 978-0-585-47757-2
+  issued:
+    - year: 2002
+  language: en
+  number-of-pages: '377'
+  publisher: MIT Press
+  publisher-place: Cambridge, Mass
+  source: K10plus ISBN
+  title: 'Bounded rationality: the adaptive toolbox'
+  title-short: Bounded rationality
+  type: book
+
+- id: grandCreaturesEntertainmentSoftware
+  abstract: >-
+    We present a technical description of Creatures, a commercial
+    home-entertainment software package. Creatures provides a simulated
+    environment in which exist a number of synthetic agents that a user can
+    interact with in real-time. The agents (known as “creatures”) are intended
+    as sophisticated “virtual pets”. The internal architecture of the creatures
+    is strongly inspired by animal biology. Each creature has a neural network
+    responsible for sensory-motor coordination and behavior selection, and an
+    “artiﬁcial biochemistry” that models a simple energy metabolism along with a
+    “hormonal” system that interacts with the neural network to model diffuse
+    modulation of neuronal activity and staged ontogenetic development. A
+    biologically inspired learning mechanism allows the neural network to adapt
+    during the lifetime of a creature. Learning includes the ability to acquire
+    a simple verb–object language.
+  author:
+    - family: Grand
+      given: Stephen
+  citation-key: grandCreaturesEntertainmentSoftware
+  language: en
+  source: Zotero
+  title: 'Creatures: Entertainment Software Agents with Artificial Life'
+  type: article-journal
+
+- id: hackerMetacognitionEducation2014
+  accessed:
+    - year: 2025
+      month: 12
+      day: 20
+  author:
+    - family: Hacker
+      given: Douglas J.
+    - family: Bol
+      given: Linda
+    - family: Matt C.
+      given: Keener
+  citation-key: hackerMetacognitionEducation2014
+  container-title: Handbook of Metamemory and Memory
+  DOI: 10.4324/9780203805503.ch22
+  ISBN: 978-0-203-80550-3 978-1-136-64855-7 978-0-8058-6214-0
+  issued:
+    - year: 2014
+      month: 2
+      day: 18
+  language: en
+  publisher: Routledge
+  source: DOI.org (Crossref)
+  title: Metacognition in Education
+  type: chapter
+  URL: https://www.taylorfrancis.com/books/9780203805503
+
+- id: hakenSynergeticsIntroductionAdvanced2004
+  accessed:
+    - year: 2026
+      month: 5
+      day: 3
+  author:
+    - family: Haken
+      given: Hermann
+  citation-key: hakenSynergeticsIntroductionAdvanced2004
+  DOI: 10.1007/978-3-662-10184-1
+  ISBN: 978-3-642-07405-9 978-3-662-10184-1
+  issued:
+    - year: 2004
+  language: en
+  license: http://www.springer.com/tdm
+  publisher: Springer Berlin Heidelberg
+  publisher-place: Berlin, Heidelberg
+  source: DOI.org (Crossref)
+  title: 'Synergetics: Introduction and Advanced Topics'
+  title-short: Synergetics
+  type: book
+  URL: http://link.springer.com/10.1007/978-3-662-10184-1
+
+- id: InternationalStatementWar2025
+  citation-key: InternationalStatementWar2025
+  issued:
+    - year: 2025
+      month: 6
+      day: 22
+  language: en
+  publisher: Black Rose Anarchist Federation
+  source: Zotero
+  title: 'International Statement: War Between States Means Death for the People'
+  type: document
+  URL: >-
+    https://theanarchistlibrary.org/library/black-rose-anarchist-federation-international-statement-war-between-states-means-death-for-the.pdf
+
+- id: johnson-lairdMentalModelsCognitive
+  author:
+    - family: Johnson-Laird
+      given: P N
+  citation-key: johnson-lairdMentalModelsCognitive
+  language: en
+  source: Zotero
+  title: Mental Models in Cognitive Science
+  type: article-journal
+
+- id: kahnemanMapsBoundedRationality2003
+  accessed:
+    - year: 2026
+      month: 3
+      day: 11
+  author:
+    - family: Kahneman
+      given: Daniel
+  citation-key: kahnemanMapsBoundedRationality2003
+  container-title: American Economic Review
+  container-title-short: American Economic Review
+  DOI: 10.1257/000282803322655392
+  ISSN: 0002-8282
+  issue: '5'
+  issued:
+    - year: 2003
+      month: 11
+      day: 1
+  language: en
+  page: 1449–1475
+  source: DOI.org (Crossref)
+  title: 'Maps of Bounded Rationality: Psychology for Behavioral Economics'
+  title-short: Maps of Bounded Rationality
+  type: article-journal
+  URL: https://pubs.aeaweb.org/doi/10.1257/000282803322655392
+  volume: '93'
+
+- id: koestlerGhostMachine1989
+  author:
+    - family: Koestler
+      given: Arthur
+  citation-key: koestlerGhostMachine1989
+  ISBN: 978-0-14-019192-9
+  issued:
+    - year: 1989
+  language: en
+  number-of-pages: '384'
+  publisher: Arkana
+  publisher-place: London
+  source: K10plus ISBN
+  title: The ghost in the machine
+  type: book
+
+- id: kondoReactionDiffusionModelFramework2010
+  abstract: |-
+    Turing Model Explained
+                
+                  The reaction-diffusion (Turing) model is a theoretical model used to explain self-regulated pattern formation in biology. Although many biologists have heard of this model, a better understanding of the concept would aid its application to many research projects and developmental principles.
+                  Kondo and Miura
+                  (p.
+                  1616
+                  ) now review the reaction-diffusion model. Despite the associated mathematics, the basic idea of the Turing model is relatively easy to understand and relates to morphogen gradients. In addition, user-friendly software makes it easy to understand how a whole variety of patterns can be produced by this simple mechanism.
+                
+              , 
+                The Turing, or reaction-diffusion (RD), model is one of the best-known theoretical models used to explain self-regulated pattern formation in the developing animal embryo. Although its real-world relevance was long debated, a number of compelling examples have gradually alleviated much of the skepticism surrounding the model. The RD model can generate a wide variety of spatial patterns, and mathematical studies have revealed the kinds of interactions required for each, giving this model the potential for application as an experimental working hypothesis in a wide variety of morphological phenomena. In this review, we describe the essence of this theory for experimental biologists unfamiliar with the model, using examples from experimental studies in which the RD model is effectively incorporated.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 7
+  author:
+    - family: Kondo
+      given: Shigeru
+    - family: Miura
+      given: Takashi
+  citation-key: kondoReactionDiffusionModelFramework2010
+  container-title: Science
+  container-title-short: Science
+  DOI: 10.1126/science.1179047
+  ISSN: 0036-8075, 1095-9203
+  issue: '5999'
+  issued:
+    - year: 2010
+      month: 9
+      day: 24
+  language: en
+  page: 1616–1620
+  source: DOI.org (Crossref)
+  title: >-
+    Reaction-Diffusion Model as a Framework for Understanding Biological Pattern
+    Formation
+  type: article-journal
+  URL: https://www.science.org/doi/10.1126/science.1179047
+  volume: '329'
+
+- id: langHOUSINGNEEDSCOOPERATIVE
+  abstract: >-
+    The growing affordability crisis has renewed interest in cooperative housing
+    as an alternative to conventional housing. This scoping review explores
+    traditional and emerging cooperative models across Europe, highlighting
+    their potential to address affordability and resident needs. Traditional
+    ownership and rental cooperatives have shown success in delivering
+    affordable housing in different European contexts. Newer models respond to
+    residents’ evolving preferences regarding community engagement, social
+    inclusion and sustainable development. The review maps existing research on
+    cooperative housing, identifying key themes, trends, and gaps. It also
+    includes innovative examples of cooperative projects in European cities.
+    Findings stress the role of innovative financing, partnerships with
+    municipalities and the social services sector, and non-speculative land use
+    in sustaining cooperative models. Despite their promise, cooperatives face
+    challenges around inclusivity, financial stability and resident
+    participation. The review concludes with policy recommendations to scale
+    cooperative housing while preserving its core values of social justice and
+    democratic governance.
+  author:
+    - family: Lang
+      given: Richard
+    - family: Giovannini
+      given: Michela
+  citation-key: langHOUSINGNEEDSCOOPERATIVE
+  language: en
+  source: Zotero
+  title: 'HOUSING NEEDS AND COOPERATIVE HOUSING MODELS: A SCOPING REVIEWa'
+  type: article-journal
+
+- id: langHOUSINGNEEDSCOOPERATIVEa
+  abstract: >-
+    The growing affordability crisis has renewed interest in cooperative housing
+    as an alternative to conventional housing. This scoping review explores
+    traditional and emerging cooperative models across Europe, highlighting
+    their potential to address affordability and resident needs. Traditional
+    ownership and rental cooperatives have shown success in delivering
+    affordable housing in different European contexts. Newer models respond to
+    residents’ evolving preferences regarding community engagement, social
+    inclusion and sustainable development. The review maps existing research on
+    cooperative housing, identifying key themes, trends, and gaps. It also
+    includes innovative examples of cooperative projects in European cities.
+    Findings stress the role of innovative financing, partnerships with
+    municipalities and the social services sector, and non-speculative land use
+    in sustaining cooperative models. Despite their promise, cooperatives face
+    challenges around inclusivity, financial stability and resident
+    participation. The review concludes with policy recommendations to scale
+    cooperative housing while preserving its core values of social justice and
+    democratic governance.
+  author:
+    - family: Lang
+      given: Richard
+    - family: Giovannini
+      given: Michela
+  citation-key: langHOUSINGNEEDSCOOPERATIVEa
+  language: en
+  source: Zotero
+  title: 'HOUSING NEEDS AND COOPERATIVE HOUSING MODELS: A SCOPING REVIEWa'
+  type: article-journal
+
+- id: lantolfIntrapersonalCommunicationInternalization2003
+  accessed:
+    - year: 2026
+      month: 4
+      day: 11
+  author:
+    - family: Lantolf
+      given: James P.
+  citation-key: lantolfIntrapersonalCommunicationInternalization2003
+  container-title: Vygotsky's Educational Theory in Cultural Context
+  DOI: 10.1017/CBO9780511840975.018
+  edition: '1'
+  editor:
+    - family: Kozulin
+      given: Alex
+    - family: Gindis
+      given: Boris
+    - family: Ageyev
+      given: Vladimir S.
+    - family: Miller
+      given: Suzanne M.
+  ISBN: 978-0-521-82131-5 978-0-521-52883-2 978-0-511-84097-5
+  issued:
+    - year: 2003
+      month: 9
+      day: 15
+  language: en
+  license: https://www.cambridge.org/core/terms
+  page: 349–370
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: >-
+    Intrapersonal Communication and Internalization in the Second Language
+    Classroom
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/CBO9780511840975A030/type/book_part
+
+- id: lathamCognitiveMotivationalEffects1994
+  abstract: >-
+    Previous experimental studies of participation have typically examined its
+    motivational (especially commitment) benefits. These studies showed that
+    these benefits are neither large nor consistent. The present study focused
+    on the cognitive benefits of participation in decision making (pdm) and on
+    the role of a different motivational mediator, selfefficacy. Unlike previous
+    research which claimed to study the cognitive (informational) effects of
+    participation, the present experiment: (a) allowed the information
+    concerning task strategies to emerge from group discussion rather than being
+    manipulated by the experimenter; (b) measured the actual strategies that
+    were developed and used by subjects in the pdm condition; and (c) measured
+    self-efficacy which was associated with the discovery and use of these
+    strategies. It was found that the strategies developed by the subjects and
+    their self-efficacy completely mediated the effect of participation on
+    performance. Further, participation in setting goals, consistent with
+    previous studies, did not affect performance but did affect self-efficacy.
+  author:
+    - family: Latham
+      given: Gary P.
+    - family: Winters
+      given: Dawn C.
+    - family: Locke
+      given: Edwin A.
+  citation-key: lathamCognitiveMotivationalEffects1994
+  container-title: Journal of Organizational Behavior
+  DOI: '2488377'
+  issue: '1'
+  issued:
+    - year: 1994
+  language: en
+  page: 49–63
+  source: Zotero
+  title: 'Cognitive and Motivational Effects of Participation: A Mediator Study'
+  type: article-journal
+  URL: http://www.jstor.org/stable/2488377
+  volume: '15'
+
+- id: lawvereConceptualMathematicsFirst2005
+  author:
+    - family: Lawvere
+      given: Francis W.
+    - family: Schanuel
+      given: Stephen H.
+    - family: Lawvere
+      given: Francis W.
+  citation-key: lawvereConceptualMathematicsFirst2005
+  edition: Reprinted with corr
+  ISBN: 978-0-521-47249-4 978-0-521-47817-5
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: '358'
+  publisher: Cambridge Univ. Press
+  publisher-place: Cambridge
+  source: K10plus ISBN
+  title: 'Conceptual mathematics: a first introduction to categories'
+  title-short: Conceptual mathematics
+  type: book
+
+- id: leatherbeeLeanStartupMethod2020
+  abstract: >-
+    Research Summary: We examine a learning-by-doing methodology for iteration
+    of early-stage business ideas known as the “lean startup.” The purpose of
+    this article is to lay out and test the key assumptions of the method,
+    examining one particularly relevant boundary condition: the composition of
+    the startup team. Using unique and detailed longitudinal data on 152
+    NSF-supported lean-startup (I-Corps) teams, we find that the key components
+    of the method—hypothesis formulation, probing, and business idea
+    convergence—link up as expected. We also find that team composition is an
+    important boundary condition: businesseducated (MBA) members resist the use
+    of the method, but appreciate its value ex post. Formal training in
+    learning-bythinking methods thus appears to limit the spread of
+    learning-by-doing methods. In this way, business theory constrains business
+    practice.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 4
+  author:
+    - family: Leatherbee
+      given: Michael
+    - family: Katila
+      given: Riitta
+  citation-key: leatherbeeLeanStartupMethod2020
+  container-title: Strategic Entrepreneurship Journal
+  container-title-short: Strategic Entrepreneurship
+  DOI: 10.1002/sej.1373
+  ISSN: 1932-4391, 1932-443X
+  issue: '4'
+  issued:
+    - year: 2020
+      month: 12
+  language: en
+  page: 570–593
+  source: DOI.org (Crossref)
+  title: >-
+    The lean startup method: Early‐stage teams and hypothesis‐based probing of
+    business ideas
+  title-short: The lean startup method
+  type: article-journal
+  URL: https://sms.onlinelibrary.wiley.com/doi/10.1002/sej.1373
+  volume: '14'
+
+- id: leinsterBasicCategoryTheory2025
+  abstract: >-
+    This short introductory category theory textbook is for readers with
+    relatively little mathematical background (e.g. the first half of an
+    undergraduate mathematics degree). At its heart is the concept of a
+    universal property, important throughout mathematics. After a chapter
+    introducing the basic definitions, separate chapters present three ways of
+    expressing universal properties: via adjoint functors, representable
+    functors, and limits. A final chapter ties the three together. For each new
+    categorical concept, a generous supply of examples is provided, taken from
+    different parts of mathematics. At points where the leap in abstraction is
+    particularly great (such as the Yoneda lemma), the reader will find careful
+    and extensive explanations.
+  accessed:
+    - year: 2026
+      month: 6
+      day: 25
+  author:
+    - family: Leinster
+      given: Tom
+  citation-key: leinsterBasicCategoryTheory2025
+  DOI: 10.48550/arXiv.1612.09375
+  issued:
+    - year: 2025
+      month: 8
+      day: 26
+  language: en
+  number: arXiv:1612.09375
+  publisher: arXiv
+  source: arXiv.org
+  title: Basic Category Theory
+  type: article
+  URL: http://arxiv.org/abs/1612.09375
+
+- id: lernerAccountingEffectsAccountability1999
+  accessed:
+    - year: 2026
+      month: 4
+      day: 21
+  author:
+    - family: Lerner
+      given: Jennifer S.
+    - family: Tetlock
+      given: Philip E.
+  citation-key: lernerAccountingEffectsAccountability1999
+  container-title: Psychological Bulletin
+  container-title-short: Psychological Bulletin
+  DOI: 10.1037/0033-2909.125.2.255
+  ISSN: 1939-1455, 0033-2909
+  issue: '2'
+  issued:
+    - year: 1999
+  language: en
+  page: 255–275
+  source: DOI.org (Crossref)
+  title: Accounting for the effects of accountability.
+  type: article-journal
+  URL: https://doi.apa.org/doi/10.1037/0033-2909.125.2.255
+  volume: '125'
+
+- id: lockeBuildingPracticallyUseful2002
+  accessed:
+    - year: 2025
+      month: 12
+      day: 19
+  author:
+    - family: Locke
+      given: Edwin A.
+    - family: Latham
+      given: Gary P.
+  citation-key: lockeBuildingPracticallyUseful2002
+  container-title: American Psychologist
+  container-title-short: American Psychologist
+  DOI: 10.1037/0003-066X.57.9.705
+  ISSN: 1935-990X, 0003-066X
+  issue: '9'
+  issued:
+    - year: 2002
+      month: 9
+  language: en
+  page: 705–717
+  source: DOI.org (Crossref)
+  title: >-
+    Building a practically useful theory of goal setting and task motivation: A
+    35-year odyssey.
+  title-short: Building a practically useful theory of goal setting and task motivation
+  type: article-journal
+  URL: https://doi.apa.org/doi/10.1037/0003-066X.57.9.705
+  volume: '57'
+
+- id: louieIntangibleLife2017
+  accessed:
+    - year: 2026
+      month: 7
+      day: 9
+  author:
+    - family: Louie
+      given: A.H.
+  citation-key: louieIntangibleLife2017
+  collection-title: Anticipation Science
+  DOI: 10.1007/978-3-319-65409-6
+  ISBN: 978-3-319-65408-9 978-3-319-65409-6
+  issued:
+    - year: 2017
+  language: en
+  license: http://www.springer.com/tdm
+  publisher: Springer International Publishing
+  publisher-place: Cham
+  source: DOI.org (Crossref)
+  title: Intangible Life
+  type: book
+  URL: http://link.springer.com/10.1007/978-3-319-65409-6
+  volume: '2'
+
+- id: louieMoreLifeItself2009
+  accessed:
+    - year: 2026
+      month: 7
+      day: 9
+  author:
+    - family: Louie
+      given: A. H.
+  citation-key: louieMoreLifeItself2009
+  DOI: 10.1515/9783110321944
+  ISBN: 978-3-11-032161-6 978-3-11-032194-4
+  issued:
+    - year: 2009
+      month: 12
+      day: 31
+  language: en
+  publisher: DE GRUYTER
+  source: DOI.org (Crossref)
+  title: 'More Than Life Itself: A Synthetic Continuation in Relational Biology'
+  title-short: More Than Life Itself
+  type: book
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783110321944/html
+
+- id: louieReflectionLife2013
+  accessed:
+    - year: 2026
+      month: 7
+      day: 9
+  author:
+    - family: Louie
+      given: A. H.
+  citation-key: louieReflectionLife2013
+  collection-title: IFSR International Series on Systems Science and Engineering
+  DOI: 10.1007/978-1-4614-6928-5
+  ISBN: 978-1-4614-6927-8 978-1-4614-6928-5
+  issued:
+    - year: 2013
+  language: en
+  license: http://www.springer.com/tdm
+  publisher: Springer New York
+  publisher-place: New York, NY
+  source: DOI.org (Crossref)
+  title: The Reflection of Life
+  type: book
+  URL: http://link.springer.com/10.1007/978-1-4614-6928-5
+  volume: '29'
+
+- id: marchettiCrisisFoundationDemocratic2025
+  accessed:
+    - year: 2026
+      month: 4
+      day: 3
+  author:
+    - family: Marchetti
+      given: Jacopo
+  citation-key: marchettiCrisisFoundationDemocratic2025
+  container-author:
+    - family: Bissiato
+      given: Giuditta
+  container-title: Law, Democracy and the Crisis of Foundation
+  DOI: 10.4324/9781003471066-6
+  edition: '1'
+  ISBN: 978-1-003-47106-6
+  issued:
+    - year: 2025
+      month: 3
+      day: 25
+  language: en
+  page: 67–81
+  publisher: Routledge
+  publisher-place: London
+  source: DOI.org (Crossref)
+  title: The Crisis of Foundation and Democratic Representation
+  type: chapter
+  URL: >-
+    https://www.taylorfrancis.com/books/9781003471066/chapters/10.4324/9781003471066-6
+
+- id: marquez-zacariasNatureOrganizationLiving2025
+  abstract: >-
+    Living systems are thermodynamically open but closed in their organization.
+    In other words, even though their material components turn over constantly,
+    a material-independent property persists, which we call organization.
+    Moreover, organization comes from within organisms themselves, which
+    requires us to explain how this self -organization is established and
+    maintained. In this paper we propose a mathematical and conceptual framework
+    to understand the kinds of organized systems that living systems are, aiming
+    to explain how self-organization emerges from more basic elemental
+    processes. Additionally, we map our own notions to existing traditions in
+    theoretical biology and philosophy, aiming to bring the main formal ideas
+    into conceptual congruence.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 7
+  author:
+    - family: Márquez-Zacarías
+      given: Pedro
+    - family: Ortiz-Muñoz
+      given: Andrés
+    - family: Bingham
+      given: Emma P.
+  citation-key: marquez-zacariasNatureOrganizationLiving2025
+  DOI: 10.48550/arXiv.2503.03950
+  issued:
+    - year: 2025
+      month: 3
+      day: 5
+  language: en
+  number: arXiv:2503.03950
+  publisher: arXiv
+  source: arXiv.org
+  title: The Nature of Organization in Living Systems
+  type: article
+  URL: http://arxiv.org/abs/2503.03950
+
+- id: mastrogiorgioMoreThumbsRules2022
+  abstract: >-
+    The literatures on bounded and ecological rationality are built on
+    adaptationism—and its associated modular, cognitivist and computational
+    paradigm—that does not address or explain the evolutionary origins of
+    rationality. We argue that the adaptive mechanisms of evolution are not
+    sufﬁcient for explaining human rationality, and we posit that human
+    rationality presents exaptive origins, where exaptations are traits evolved
+    for other functions or no function at all, and later co-opted for new uses.
+    We propose an embodied reconceptualization of rationality—embodied
+    rationality—based on the reuse of the perception-action system, where many
+    neural processes involved in the control of the sensory-motor system,
+    salient in ancestral environments have been later co-opted to create—by
+    tinkering—high-level reasoning processes, employed in civilized niches.
+  accessed:
+    - year: 2026
+      month: 3
+      day: 15
+  author:
+    - family: Mastrogiorgio
+      given: Antonio
+    - family: Felin
+      given: Teppo
+    - family: Kauffman
+      given: Stuart
+    - family: Mastrogiorgio
+      given: Mariano
+  citation-key: mastrogiorgioMoreThumbsRules2022
+  container-title: Frontiers in Psychology
+  container-title-short: Front. Psychol.
+  DOI: 10.3389/fpsyg.2022.805743
+  ISSN: 1664-1078
+  issued:
+    - year: 2022
+      month: 2
+      day: 24
+  language: en
+  page: '805743'
+  source: DOI.org (Crossref)
+  title: 'More Thumbs Than Rules: Is Rationality an Exaptation?'
+  title-short: More Thumbs Than Rules
+  type: article-journal
+  URL: https://www.frontiersin.org/articles/10.3389/fpsyg.2022.805743/full
+  volume: '13'
+
+- id: meinhardtMODELSBIOLOGICALPATTERN
+  author:
+    - family: Meinhardt
+      given: Hans
+  citation-key: meinhardtMODELSBIOLOGICALPATTERN
+  language: en
+  source: Zotero
+  title: MODELS OF BIOLOGICAL PATTERN FORMATION
+  type: article-journal
+
+- id: nunesNeitherVerticalHorizontal2021
+  author:
+    - family: Nunes
+      given: Rodrigo
+  citation-key: nunesNeitherVerticalHorizontal2021
+  ISBN: 978-1-78873-383-0
+  issued:
+    - year: 2021
+  language: en
+  number-of-pages: '307'
+  publisher: Verso
+  publisher-place: London New York
+  source: K10plus ISBN
+  title: 'Neither vertical nor horizontal: a theory of political organisation'
+  title-short: Neither vertical nor horizontal
+  type: book
+
+- id: ogbeiwiWhyWrittenObjectives2017
+  abstract: >-
+    There is general agreement that plans without well-formulated goals lack
+    rationale, strategies lack relevance, actions lack direction, projects lack
+    accountability, and organisations lack purpose (Mullins, 1999; Beardshaw and
+    Palfreman, 1990; Bratton, et al, 2007). Moreover, goals need to be properly
+    constructed to serve as credible and usable benchmarks by which the results
+    can be monitored and evaluated via immediate outputs, intermediate outcomes
+    over the short term or terminal impacts in the long term (Greenbank, 2001;
+    Fitsimmons, 2008; Bipp and Kleingeld, 2011). Thus, it is a basic requirement
+    of effective goal setting that objective statements are formulated using a
+    clear and logical structure or framework. This article analyses examples of
+    objective statements drawn from the literature and concludes that none of
+    these can be truly described as SMART1, posing the risk that organisations
+    using them as guide will fail to attain their goals.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 25
+  author:
+    - family: Ogbeiwi
+      given: Osahon
+  citation-key: ogbeiwiWhyWrittenObjectives2017
+  container-title: British Journal of Healthcare Management
+  container-title-short: British Journal of Healthcare Management
+  DOI: 10.12968/bjhc.2017.23.7.324
+  ISSN: 1358-0574, 1759-7382
+  issue: '7'
+  issued:
+    - year: 2017
+      month: 7
+      day: 2
+  language: en
+  page: 324–336
+  source: DOI.org (Crossref)
+  title: Why written objectives need to be really SMART
+  type: article-journal
+  URL: http://www.magonlinelibrary.com/doi/10.12968/bjhc.2017.23.7.324
+  volume: '23'
+
+- id: parkGettingRootThings2022
+  abstract: >-
+    When formulating strategic problems, managers and executives routinely
+    overlook relevant causes. This oversight, in turn, compromises the
+    effectiveness of solutions and strategies. To illuminate the factors
+    determining the success of problem formulation, we develop a model of the
+    individual-level drivers of problem formulation comprehensiveness—the number
+    of nonredundant and relevant causes to a problem that individuals identify.
+    Speciﬁcally, we theorize that epistemic motivation—the desire to learn and
+    hold well-informed views of the world—is an important driver of
+    comprehensiveness. Furthermore, we suggest that high construal levels—an
+    abstract thinking style—enhance the beneﬁts of epistemic motivation because
+    they direct individual information processing away from the symptoms of a
+    problem toward its underlying causes. We test this interaction model in two
+    experimental studies involving Chinese top executives and university
+    students in the United States. The results of our two studies are consistent
+    with our theoretical model. High construal levels strengthen the effect of
+    epistemic motivation, resulting in greater comprehensiveness of problem
+    formulation. We discuss the implications of our work for theory and
+    practice.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 1
+  author:
+    - family: Park
+      given: Chan Hyung
+    - family: Baer
+      given: Markus
+  citation-key: parkGettingRootThings2022
+  container-title: Strategy Science
+  container-title-short: Strategy Science
+  DOI: 10.1287/stsc.2022.0155
+  ISSN: 2333-2050, 2333-2077
+  issue: '4'
+  issued:
+    - year: 2022
+      month: 12
+  language: en
+  page: 284–299
+  source: DOI.org (Crossref)
+  title: >-
+    Getting to the Root of Things: The Role of Epistemic Motivation and
+    Construal Levels in Strategic Problem Formulation
+  title-short: Getting to the Root of Things
+  type: article-journal
+  URL: https://pubsonline.informs.org/doi/10.1287/stsc.2022.0155
+  volume: '7'
+
+- id: petraccaEconomicCognitiveInstitutions2020
+  abstract: >-
+    This paper introduces the notion of ‘cognitive’ institution and discusses
+    its relevance to institutional economics. Cognitive institutions are
+    conceptually founded on the philosophy of mind notion of extended mind,
+    broadened to also include the distinctly social, institutional, and
+    normative dimensions. Cognitive institutions are defined as institutions
+    that not just allow agents to perform certain cognitive processes in the
+    social domain but, more importantly, without which some of the agents’
+    cognitive processes would not exist or even be possible. The externalist
+    point of view of the extended mind has already had some influence in
+    institutional economics: Arthur Denzau and Douglass North first introduced
+    the notion of institution understood in terms of ‘shared mental models’, and
+    relatedly philosopher Andy Clark introduced the notion of ‘scaffolding
+    institution’. We discuss shared mental models and scaffolding institutions
+    and go a step further by showing that the notion of cognitive institution
+    can capture more fundamental and salient aspects of economic institutions.
+    In particular, we focus on the market as an economic cognitive institution.
+  accessed:
+    - year: 2026
+      month: 4
+      day: 4
+  author:
+    - family: Petracca
+      given: Enrico
+    - family: Gallagher
+      given: Shaun
+  citation-key: petraccaEconomicCognitiveInstitutions2020
+  container-title: Journal of Institutional Economics
+  container-title-short: Journal of Institutional Economics
+  DOI: 10.1017/S1744137420000144
+  ISSN: 1744-1374, 1744-1382
+  issue: '6'
+  issued:
+    - year: 2020
+      month: 12
+  language: en
+  license: http://creativecommons.org/licenses/by-nc/4.0/
+  page: 747–765
+  source: DOI.org (Crossref)
+  title: Economic cognitive institutions
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/S1744137420000144/type/journal_article
+  volume: '16'
+
+- id: petraccaHowCanEmbodied2023
+  abstract: >-
+    The paper discusses how research on embodied cognition in cognitive science
+    can contribute to the naturalization of rationality. The investigation takes
+    place in two steps. First, we provide a conceptual map of possible new ideas
+    of rationality inspired by embodied cognition. Given the plurality of
+    theories of embodied cognition, we distinguish different approaches
+    according to their increasing degree of radicalism. We consider ecological
+    rationality as currently the best candidate for naturalizing rationality,
+    and, after identifying its descriptive and normative building blocks, we
+    provide an increasingly radical embodied interpretation of them. The outcome
+    is four new concepts of rationality, in increasing order of embodied
+    radicalism: embodied bounded rationality, body rationality, extended
+    rationality, and radical embodied rationality. We emphasize that while less
+    radical concepts currently align better with the idea of methodological
+    naturalism, radical concepts are best conceived of as instances of
+    ontological naturalism. The second step of our investigation concerns
+    comparing the four embodied rationality concepts in light of three
+    meta-criteria: internal epistemic values, empirical success, and
+    intertheoretic compatibility. While empirical success currently favors less
+    radical concepts, intertheoretic compatibility demonstrates the promises of
+    rationality’s embodied radicalism.
+  accessed:
+    - year: 2026
+      month: 3
+      day: 15
+  author:
+    - family: Petracca
+      given: Enrico
+    - family: Grayot
+      given: James
+  citation-key: petraccaHowCanEmbodied2023
+  container-title: Synthese
+  container-title-short: Synthese
+  DOI: 10.1007/s11229-023-04124-3
+  ISSN: 1573-0964
+  issue: '4'
+  issued:
+    - year: 2023
+      month: 3
+      day: 21
+  language: en
+  page: '115'
+  source: DOI.org (Crossref)
+  title: How can embodied cognition naturalize bounded rationality?
+  type: article-journal
+  URL: https://link.springer.com/10.1007/s11229-023-04124-3
+  volume: '201'
+
+- id: pismenMorphogenesisDeconstructedIntegrated2020
+  abstract: >-
+    Intro -- Preface -- Contents -- 1 Morphogenetic Universe -- 1.1 Unplanned,
+    Unfair but Benevolent -- 1.2 Construction and Deconstruction -- 1.3
+    Alphabets and Hieroglyphs -- 1.4 Mutability -- 1.5 Morphogenesis of
+    Knowledge -- 2 Aggregation -- 2.1 The Origins -- 2.2 A Star is Born (and
+    Dies) -- 2.3 Sticky Particles -- 2.4 Power Laws -- 2.5 Phase Transitions --
+    3 Broken Symmetry -- 3.1 Crystals -- 3.2 Crystals on the Mesoscale -- 3.3
+    Liquid Crystals -- 3.4 Non-Equilibrium Patterns -- 3.5 Oscillations and
+    Waves -- 3.6 Branching Patterns -- 3.7 Self-Organized Universe -- 4 Life
+    Evolves -- 4.1 Alive or Not? -- 4.2 Memory and Function -- 4.3 Alien Earth
+    and Gaia -- 4.4 Cells Are Sine Qua Non -- 4.5 Darwin Evolved and Devolved --
+    4.6 Lamarck's Revenge -- 5 Cells in Motion -- 5.1 Why Such a Tangle? -- 5.2
+    Protein Traffic -- 5.3 Energetics and Electrochemistry -- 5.4 Cytoskeleton
+    -- 5.5 Cells Divide -- 5.6 Crawling and Swimming -- 5.7 Creative Destruction
+    -- 6 Cells United -- 6.1 Why Develop? -- 6.2 Body Plan -- 6.3 Signals and
+    Patterns -- 6.4 Mechanics of Tissues -- 6.5 Mechanotransduction -- 6.6
+    Growth and Movements of Plants -- 7 Communication -- 7.1 Flow Networks --
+    7.2 Nerve Networks -- 7.3 The Bacterial Alternative -- 7.4 Collective
+    Advantage -- 7.5 Studying Life -- 8 Biomorphic Technologies -- 8.1 Uniquely
+    Human -- 8.2 Malleable Materials -- 8.3 Digital Morphogenesis -- 8.4
+    Nanotechnology -- 8.5 Tinkering with Nature -- 8.6 From Natural to Unnatural
+    -- Correction to: Broken Symmetry -- References -- Illustration Credits
+  author:
+    - family: Pisʹmen
+      given: Leonid Michajlovič
+  citation-key: pismenMorphogenesisDeconstructedIntegrated2020
+  collection-title: The Frontiers Collection
+  ISBN: 978-3-030-36813-5 978-3-030-36814-2
+  issued:
+    - year: 2020
+  language: en
+  number-of-pages: '1'
+  publisher: Springer International Publishing AG
+  publisher-place: Cham
+  source: K10plus ISBN
+  title: 'Morphogenesis Deconstructed: An Integrated View of the Generation of Forms'
+  title-short: Morphogenesis Deconstructed
+  type: book
+
+- id: PositionspapierFuerAutonome2022
+  accessed:
+    - year: 2025
+      month: 11
+      day: 24
+  citation-key: PositionspapierFuerAutonome2022
+  issued:
+    - year: 2022
+      month: 7
+      day: 7
+  language: de
+  publisher: Organisierte Autonomie Zürich
+  title: >-
+    Positionspapier: Für die autonome Organisierung im Kampf um eine befreite
+    Gesellschaft
+  type: document
+  URL: https://www.oa-zh.org/assets/broschuere_positionen_oa.pdf
+
+- id: rieberCollectedWorksVygotsky1988
+  accessed:
+    - year: 2026
+      month: 4
+      day: 11
+  citation-key: rieberCollectedWorksVygotsky1988
+  DOI: 10.1007/978-1-4613-1655-8
+  editor:
+    - family: Rieber
+      given: Robert W.
+    - family: Carton
+      given: Aaron S.
+  ISBN: 978-1-4612-8919-7 978-1-4613-1655-8
+  issued:
+    - year: 1988
+  language: en
+  license: http://www.springer.com/tdm
+  publisher: Springer US
+  publisher-place: Boston, MA
+  source: DOI.org (Crossref)
+  title: The Collected Works of L. S. Vygotsky
+  type: book
+  URL: http://link.springer.com/10.1007/978-1-4613-1655-8
+
+- id: riesLeanStartupHow2014
+  author:
+    - family: Ries
+      given: Eric
+  citation-key: riesLeanStartupHow2014
+  edition: First edition
+  ISBN: 978-0-307-88789-4
+  issued:
+    - year: 2014
+  language: en
+  number-of-pages: '320'
+  publisher: Crown Business
+  publisher-place: New York
+  source: K10plus ISBN
+  title: >-
+    The lean startup: how today's entrepreneurs use continuous innovation to
+    create radically successful businesses
+  title-short: The lean startup
+  type: book
+
+- id: rosenLifeItselfComprehensive1991
+  author:
+    - family: Rosen
+      given: Robert
+  call-number: QH325 .R57 1991
+  citation-key: rosenLifeItselfComprehensive1991
+  collection-title: Complexity in ecological systems series
+  ISBN: 978-0-231-07564-0
+  issued:
+    - year: 1991
+  number-of-pages: '285'
+  publisher: Columbia University Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: >-
+    Life itself: a comprehensive inquiry into the nature, origin, and
+    fabrication of life
+  title-short: Life itself
+  type: book
+
+- id: schnaubeltVulnerabilityAssessmentMethod2014
+  author:
+    - family: Schnaubelt
+      given: Christopher M.
+    - family: Larson
+      given: Eric V.
+    - family: Boyer
+      given: Matthew E.
+  citation-key: schnaubeltVulnerabilityAssessmentMethod2014
+  ISBN: 978-0-8330-8689-1
+  issued:
+    - year: 2014
+  language: en
+  note: 'OCLC: 885016255'
+  publisher: RAND Arroyo Center
+  publisher-place: Santa Monica, CA
+  source: Open WorldCat
+  title: >-
+    Vulnerability assessment method pocket guide: a tool for center of gravity
+    analysis
+  title-short: Vulnerability assessment method pocket guide
+  type: book
+
+- id: sieniutyczComplexityComplexThermoeconomic2020a
+  author:
+    - family: Sieniutycz
+      given: Stanislaw
+  citation-key: sieniutyczComplexityComplexThermoeconomic2020a
+  ISBN: 978-0-12-818594-0
+  issued:
+    - year: 2020
+  language: en
+  number-of-pages: '395'
+  publisher: Elsevier
+  publisher-place: Amsterdam Oxford Cambridge, MA
+  source: K10plus ISBN
+  title: Complexity and complex thermo-economic systems
+  type: book
+
+- id: smith-jentschGuidedTeamSelfCorrection2008
+  abstract: >-
+    This research investigated the effects of guided team self-correction using
+    an empirically derived expert model of teamwork as the organizing framework.
+    First, the authors describe the process used to define this model. Second,
+    they report findings from two studies in which the expert model was used to
+    structure the process of guided team self-correction. Participants were U.S.
+    Navy command and control teams (25 in Study 1, 13 in Study 2). Results
+    indicated that teams debriefed using the expert model-driven guided team
+    self-correction approach developed more accurate mental models of teamwork
+    (Study 1) and demonstrated greater teamwork processes and more effective
+    outcomes (Study 2) than did teams debriefed using a less participative and
+    chronologically organized approach that is more typical for these teams.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 26
+  author:
+    - family: Smith-Jentsch
+      given: Kimberly A.
+    - family: Cannon-Bowers
+      given: Janis A.
+    - family: Tannenbaum
+      given: Scott I.
+    - family: Salas
+      given: Eduardo
+  citation-key: smith-jentschGuidedTeamSelfCorrection2008
+  container-title: Small Group Research
+  container-title-short: Small Group Research
+  DOI: 10.1177/1046496408317794
+  ISSN: 1046-4964, 1552-8278
+  issue: '3'
+  issued:
+    - year: 2008
+      month: 6
+  language: en
+  license: https://journals.sagepub.com/page/policies/text-and-data-mining-license
+  page: 303–327
+  source: DOI.org (Crossref)
+  title: >-
+    Guided Team Self-Correction: Impacts on Team Mental Models, Processes, and
+    Effectiveness
+  title-short: Guided Team Self-Correction
+  type: article-journal
+  URL: https://journals.sagepub.com/doi/10.1177/1046496408317794
+  volume: '39'
+
+- id: solonjennyEstablishingLessonsLearned2011
+  author:
+    - literal: Solon, Jenny,
+  citation-key: solonjennyEstablishingLessonsLearned2011
+  collection-number: 11-33
+  collection-title: CALL Handbook
+  issued:
+    - year: 2011
+      month: 6
+      day: 1
+  language: en
+  publisher: 'Fort Leavenworth, KS : Center for Army Lessons Learned CALL'
+  source: Zotero
+  title: Establishing a Lessons Learned Program
+  type: book
+
+- id: stauridesHousingCommonsHousing2022
+  citation-key: stauridesHousingCommonsHousing2022
+  editor:
+    - family: Stauridēs
+      given: Stauros
+    - family: Travlou
+      given: Penny
+    - literal: EBSCOhost
+  ISBN: 978-1-78699-997-9 978-1-350-23454-3 978-1-913441-01-2 978-1-78699-999-3
+  issued:
+    - year: 2022
+  language: en
+  number-of-pages: '1'
+  publisher: Bloomsbury Academic
+  publisher-place: London New York
+  source: K10plus ISBN
+  title: >-
+    Housing as commons: housing alternatives as response to the current urban
+    crisis
+  title-short: Housing as commons
+  type: book
+
+- id: stavridesHousingCommonsHousing2022
+  abstract: >-
+    "Experiences of the struggle for housing, ignited by the lack of social and
+    affordable housing, have led to the establishing of shared and self-managed
+    housing areas. In such a context, it becomes crucially important to re-think
+    the need to define common urban worlds "from below". Here, Penny Travlou and
+    Stavros Stavridis trace contemporary practices of urban commoning through
+    which people re-define housing economies. Connecting to a rich literature on
+    the importance of commons and of practices of commoning for the creation of
+    emancipated societies, the authors discuss whether housing struggles and
+    co-habitation experiences may contribute in crucial ways to the development
+    of a commoning culture. The authors explore a variety of urban contexts
+    through global case studies from across the Global North and South, in
+    search of concrete examples that illustrate the potentialities of urban
+    commoning"--
+  call-number: HD7287.3
+  citation-key: stavridesHousingCommonsHousing2022
+  edition: First Edition
+  editor:
+    - family: Stavrides
+      given: Stavros
+    - family: Travlou
+      given: Penny
+  ISBN: 978-1-350-23454-3 978-1-913441-01-2 978-1-78699-999-3
+  issued:
+    - year: 2022
+  number-of-pages: '1'
+  publisher: Bloomsbury Academic, Bloomsbury Publishing
+  publisher-place: New York, NY
+  source: Library of Congress ISBN
+  title: >-
+    Housing as commons: housing alternatives as response to the current urban
+    crisis
+  title-short: Housing as commons
+  type: book
+
+- id: sustainabilitySocialEcologicalCooperativeHousing2022
+  abstract: >-
+    Intro -- Über uns -- Sozial-Ökologisches, genossenschaftliches Wohnen --
+    Wohnungs(bau)genossenschaft -- Inhaltsverzeichnis -- Einführung -- Krisen +
+    Chancen -- Klima + Wohnen -- Einleitungen -- Genossenschaft: eine
+    nachhaltige Idee -- Gemeinschaft: ein kritischer Exkurs -- Die Wohnungsfrage
+    ist eine Eigentumsfrage ist eine Bodenfrage -- Sozial-Ökologisches,
+    genossenschaftliches Wohnen -- Modellprojekte -- Eden Genossenschaft --
+    Block 103 -- Lichte Weiten -- LaVidaVerde -- Experimentierhäuser Haus der
+    Statistik -- CRCLR HAUS -- Lynarstraße 38-39 -- Möckernkiez -- Wohnprojekt
+    Wien -- Bau- und Wohngenossenschaft Lebenswerte Nachbarschaft - LeNa -- Das
+    Zollhaus -- ecovillage hannover -- Leitartikel -- Klimawandel!! --
+    Kommunalpolitische Rahmenbedingungen für gemeinwohlorientierte Bodennutzung:
+    ein bau- und bodenpolitischer Werkzeugkasten aus Tübinger Perspektive --
+    Wohnflächeneffizienz und Wohnraumsuffizienz: Wieviel Wohnung braucht der
+    Mensch? Nachhaltige Nutzungs- und Organisationskonzepte in der Gemeinschaft
+    -- Ein Wohnzimmer aus Gras: (Um)Bauen und Sanieren mit regenerativen
+    Baustoffen -- Zum Wohnraumselbstversorger werden: Finanzierung und
+    Rechtsform -- Genossenschaften und Commons: gemeinsames Wirtschaften mit
+    begrenzten Gütern -- Bedingungen des Genossenschaftswesens: eine Architektur
+    des Zusammenlebens in Zürich -- Zum radikalen Potenzial der
+    Genossenschaftsidee (und einigen Problemen bei ihrer Verwirklichung) --
+    Fazit -- Wohin jetzt? -- Forderungen -- Ressourcen -- Glossar -- Autor:innen
+    -- Partner:innen -- Kontakte und Ressourcen -- Danksagung -- About the Team
+    -- Table of Contents -- Preface -- Crises + Opportunities -- Climate +
+    Housing -- Introductions -- Cooperative: A Sustainable Idea -- Community: A
+    Critical Discussion -- The Housing Question Is an Ownership Question Is a
+    Land Question -- Social-Ecological Cooperative Housing
+  author:
+    - family: Sustainability
+      given: 'id22: Institute for Creative'
+  citation-key: sustainabilitySocialEcologicalCooperativeHousing2022
+  edition: 1st ed
+  ISBN: 978-3-86859-835-3
+  issued:
+    - year: 2022
+  language: de
+  number-of-pages: '1'
+  publisher: Jovis Verlag GmbH
+  publisher-place: Berlin
+  source: K10plus ISBN
+  title: >-
+    Social-Ecological Cooperative Housing: Gemeinschaftliches, Transformatives
+    Bauen und Wohnen
+  title-short: Social-Ecological Cooperative Housing
+  type: book
+
+- id: sustainabilitySocialEcologicalCooperativeHousing2022a
+  abstract: >-
+    Intro -- Über uns -- Sozial-Ökologisches, genossenschaftliches Wohnen --
+    Wohnungs(bau)genossenschaft -- Inhaltsverzeichnis -- Einführung -- Krisen +
+    Chancen -- Klima + Wohnen -- Einleitungen -- Genossenschaft: eine
+    nachhaltige Idee -- Gemeinschaft: ein kritischer Exkurs -- Die Wohnungsfrage
+    ist eine Eigentumsfrage ist eine Bodenfrage -- Sozial-Ökologisches,
+    genossenschaftliches Wohnen -- Modellprojekte -- Eden Genossenschaft --
+    Block 103 -- Lichte Weiten -- LaVidaVerde -- Experimentierhäuser Haus der
+    Statistik -- CRCLR HAUS -- Lynarstraße 38-39 -- Möckernkiez -- Wohnprojekt
+    Wien -- Bau- und Wohngenossenschaft Lebenswerte Nachbarschaft - LeNa -- Das
+    Zollhaus -- ecovillage hannover -- Leitartikel -- Klimawandel!! --
+    Kommunalpolitische Rahmenbedingungen für gemeinwohlorientierte Bodennutzung:
+    ein bau- und bodenpolitischer Werkzeugkasten aus Tübinger Perspektive --
+    Wohnflächeneffizienz und Wohnraumsuffizienz: Wieviel Wohnung braucht der
+    Mensch? Nachhaltige Nutzungs- und Organisationskonzepte in der Gemeinschaft
+    -- Ein Wohnzimmer aus Gras: (Um)Bauen und Sanieren mit regenerativen
+    Baustoffen -- Zum Wohnraumselbstversorger werden: Finanzierung und
+    Rechtsform -- Genossenschaften und Commons: gemeinsames Wirtschaften mit
+    begrenzten Gütern -- Bedingungen des Genossenschaftswesens: eine Architektur
+    des Zusammenlebens in Zürich -- Zum radikalen Potenzial der
+    Genossenschaftsidee (und einigen Problemen bei ihrer Verwirklichung) --
+    Fazit -- Wohin jetzt? -- Forderungen -- Ressourcen -- Glossar -- Autor:innen
+    -- Partner:innen -- Kontakte und Ressourcen -- Danksagung -- About the Team
+    -- Table of Contents -- Preface -- Crises + Opportunities -- Climate +
+    Housing -- Introductions -- Cooperative: A Sustainable Idea -- Community: A
+    Critical Discussion -- The Housing Question Is an Ownership Question Is a
+    Land Question -- Social-Ecological Cooperative Housing
+  author:
+    - family: Sustainability
+      given: 'id22: Institute for Creative'
+  citation-key: sustainabilitySocialEcologicalCooperativeHousing2022a
+  edition: 1st ed
+  ISBN: 978-3-86859-835-3
+  issued:
+    - year: 2022
+  language: de
+  number-of-pages: '1'
+  publisher: Jovis Verlag GmbH
+  publisher-place: Berlin
+  source: K10plus ISBN
+  title: >-
+    Social-Ecological Cooperative Housing: Gemeinschaftliches, Transformatives
+    Bauen und Wohnen
+  title-short: Social-Ecological Cooperative Housing
+  type: book
+
+- id: thomasSocialIdentitiesFacilitate2012
+  abstract: >-
+    Three studies explore the recently elaborated social identity model of
+    collective action (SIMCA) and an alternative, the encapsulated model of
+    social identity in collective action (EMSICA). These models both afford a
+    central role to the function of social identities in promoting collective
+    action, through affective reactions to injustice and group efficacy, but in
+    different ways. Combined analyses of three samples (N = 305) using
+    multigroup structural equation modelling showed that both SIMCA and EMSICA
+    fit the data well but that the path from group efficacy to action was of
+    small size. Results showed that social identity processes can both
+    facilitate and encapsulate other action-relevant constructs, and highlight
+    the importance of considering multiple causal pathways to action.
+  accessed:
+    - year: 2026
+      month: 5
+      day: 10
+  author:
+    - family: Thomas
+      given: Emma F.
+    - family: Mavor
+      given: Kenneth I.
+    - family: McGarty
+      given: Craig
+  citation-key: thomasSocialIdentitiesFacilitate2012
+  container-title: Group Processes & Intergroup Relations
+  container-title-short: Group Processes & Intergroup Relations
+  DOI: 10.1177/1368430211413619
+  ISSN: 1368-4302, 1461-7188
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 1
+  language: en
+  page: 75–88
+  source: DOI.org (Crossref)
+  title: >-
+    Social identities facilitate and encapsulate action-relevant constructs: A
+    test of the social identity model of collective action
+  title-short: Social identities facilitate and encapsulate action-relevant constructs
+  type: article-journal
+  URL: https://journals.sagepub.com/doi/10.1177/1368430211413619
+  volume: '15'
+
+- id: thompsonDualprocessTheoriesMetacognitive2009
+  abstract: |-
+    Abstract
+                This chapter develops a framework for predicting S2 intervention that is based on metacognitive experiences associated with S1 processes. In particular, it develops the argument that the outcome of a given reasoning attempt is determined not only by the content of the information which is retrieved by S1 and analysed by S2, but also by a second-order judgement. This metacognitive judgement is largely based on the experience associated with the execution of S1 and S2 processes, and it is this judgement that determines whether, and how, S2 processes are engaged.
+  accessed:
+    - year: 2026
+      month: 4
+      day: 21
+  author:
+    - family: Thompson
+      given: Valerie A.
+  citation-key: thompsonDualprocessTheoriesMetacognitive2009
+  container-title: 'In two minds: Dual processes and beyond'
+  DOI: 10.1093/acprof:oso/9780199230167.003.0008
+  edition: '1'
+  editor:
+    - family: Evans
+      given: Jonathan
+    - family: Frankish
+      given: Keith
+  ISBN: 978-0-19-923016-7 978-0-19-169644-2
+  issued:
+    - year: 2009
+      month: 1
+      day: 29
+  language: en
+  page: 171–196
+  publisher: Oxford University PressOxford
+  source: DOI.org (Crossref)
+  title: 'Dual-process theories: A metacognitive perspective'
+  title-short: Dual-process theories
+  type: chapter
+  URL: https://academic.oup.com/book/6923/chapter/151178472
+
+- id: TradecraftPrimerStructured2009
+  accessed:
+    - year: 2026
+      month: 1
+      day: 7
+  citation-key: TradecraftPrimerStructured2009
+  issued:
+    - year: 2009
+  language: en
+  publisher: American Psychological Association
+  source: DOI.org (Crossref)
+  title: >-
+    A Tradecraft Primer: Structured Analytic Techniques for Improving
+    Intelligence Analysis: (587102011-001)
+  title-short: A Tradecraft Primer
+  type: document
+
+- id: tschacherImplicationsEmbodiment2015
+  citation-key: tschacherImplicationsEmbodiment2015
+  container-title: Implications of Embodiment
+  editor:
+    - family: Tschacher
+      given: Wolfgang
+  ISBN: 978-1-84540-240-2 978-1-84540-551-9
+  issued:
+    - year: 2015
+  language: en
+  publisher: Andrews UK Ltd
+  publisher-place: s.l
+  source: K10plus ISBN
+  title: Interpretations of embodied cognition
+  type: chapter
+
+- id: tschacherImplicationsEmbodiment2015b
+  citation-key: tschacherImplicationsEmbodiment2015b
+  editor:
+    - family: Tschacher
+      given: Wolfgang
+  ISBN: 978-1-84540-240-2 978-1-84540-551-9
+  issued:
+    - year: 2015
+  language: en
+  publisher: Andrews UK Ltd
+  publisher-place: s.l
+  source: K10plus ISBN
+  title: Implications of Embodiment
+  type: book
+
+- id: tschacherImplicationsEmbodiment2015c
+  author:
+    - family: Gallagher
+      given: Shaun
+  citation-key: tschacherImplicationsEmbodiment2015c
+  container-title: 'The Implications of Embodiment: Cognition and Communication'
+  edition: Tschacher, Wolfgang
+  ISBN: 978-1-84540-240-2 978-1-84540-551-9
+  issued:
+    - year: 2011
+  language: en
+  page: 59–70
+  publisher: Andrews UK Ltd
+  source: K10plus ISBN
+  title: Interpretations of embodied cognition
+  type: chapter
+
+- id: tschacherImplicationsEmbodiment2015d
+  citation-key: tschacherImplicationsEmbodiment2015d
+  editor:
+    - family: Tschacher
+      given: Wolfgang
+  ISBN: 978-1-84540-240-2 978-1-84540-551-9
+  issued:
+    - year: 2015
+  language: en
+  publisher: Andrews UK Ltd
+  publisher-place: s.l
+  source: K10plus ISBN
+  title: Implications of Embodiment
+  type: book
+
+- id: TurningTideAnarchist2023
+  accessed:
+    - year: 2025
+      month: 11
+      day: 3
+  citation-key: TurningTideAnarchist2023
+  issued:
+    - year: 2023
+  publisher: Black Rose Anarchist Federation
+  title: 'Turning The Tide: An Anarchist Program for Popular Power'
+  type: document
+  URL: blackrosefed.org
+
+- id: unitedstatesgovernmentusarmyArmyDesignMethodology2015
+  author:
+    - literal: United States Government US Army
+  citation-key: unitedstatesgovernmentusarmyArmyDesignMethodology2015
+  collection-number: 5-0.1
+  collection-title: Army Technique Publication
+  issued:
+    - year: 2015
+      month: 7
+      day: 1
+  number-of-pages: '82'
+  publisher: Department of the Army
+  publisher-place: Washington, D.C.
+  title: Army Design Methodology
+  title-short: ADP 5.0
+  type: book
+  URL: https://armypubs.army.mil/
+
+- id: unitedstatesgovernmentusarmyJointIntelligence2013
+  author:
+    - literal: United States Government US Army
+  citation-key: unitedstatesgovernmentusarmyJointIntelligence2013
+  collection-number: 2-0
+  collection-title: Joint Publication
+  issued:
+    - year: 2013
+      month: 10
+      day: 22
+  language: en
+  publisher-place: Washington, D.C.
+  source: Zotero
+  title: Joint Intelligence
+  type: book
+
+- id: unitedstatesgovernmentusarmyJointOperations2017
+  author:
+    - literal: United States Government US Army
+  citation-key: unitedstatesgovernmentusarmyJointOperations2017
+  collection-number: 3-0
+  collection-title: Joint Publication
+  issued:
+    - year: 2017
+      month: 1
+      day: 1
+  publisher-place: Washington, D.C.
+  title: Joint Operations
+  type: book
+
+- id: unitedstatesgovernmentusarmyJointPlanning2020
+  author:
+    - literal: United States Government US Army
+  citation-key: unitedstatesgovernmentusarmyJointPlanning2020
+  collection-number: 5-0
+  collection-title: Joint Publication
+  issued:
+    - year: 2020
+      month: 12
+      day: 1
+  language: en
+  publisher: Joint Operations
+  publisher-place: Washington, D.C.
+  source: Zotero
+  title: Joint Planning
+  type: book
+
+- id: unitedstatesgovernmentusarmyMissionCommandCommand2019
+  author:
+    - literal: United States Government US Army
+  citation-key: unitedstatesgovernmentusarmyMissionCommandCommand2019
+  collection-number: 6-0
+  collection-title: Army Doctrine Publication
+  issued:
+    - year: 2019
+      month: 7
+      day: 1
+  number-of-pages: '110'
+  publisher: Department of the Army
+  publisher-place: Washington, D.C.
+  title: 'Mission Command: Command and Control of Army Forces'
+  title-short: ADP 6.0
+  type: book
+  URL: https://armypubs.army.mil/
+
+- id: unitedstatesgovernmentusarmyOperationsProcess2019
+  author:
+    - literal: United States Government US Army
+  citation-key: unitedstatesgovernmentusarmyOperationsProcess2019
+  collection-number: 5-0
+  collection-title: Army Doctrine Publication
+  issued:
+    - year: 2019
+      month: 7
+      day: 1
+  number-of-pages: '100'
+  publisher: Department of the Army
+  publisher-place: Washington, D.C.
+  title: The Operations Process
+  title-short: ADP 5-0
+  type: book
+  URL: https://armypubs.army.mil/
+
+- id: unitedstatesgovernmentusarmyRedTeamingHandbook
+  author:
+    - literal: United States Government US Army
+  citation-key: unitedstatesgovernmentusarmyRedTeamingHandbook
+  source: Zotero
+  title: Red Teaming Handbook
+  type: book
+
+- id: weidlichSociodynamicsSystemicApproach2006
+  author:
+    - family: Weidlich
+      given: Wolfgang
+  call-number: H61.25 .W45 2006
+  citation-key: weidlichSociodynamicsSystemicApproach2006
+  ISBN: 978-0-486-45027-8
+  issued:
+    - year: 2006
+  number-of-pages: '380'
+  publisher: Dover
+  publisher-place: Mineola, N.Y
+  source: Library of Congress ISBN
+  title: >-
+    Sociodynamics: a systemic approach to mathematical modelling in the social
+    sciences
+  title-short: Sociodynamics
+  type: book
+
+- id: wienerCyberneticsControlCommunication2000
+  author:
+    - family: Wiener
+      given: Norbert
+  citation-key: wienerCyberneticsControlCommunication2000
+  edition: 2. ed., 10. print
+  ISBN: 978-0-262-23007-0 978-0-262-73009-9
+  issued:
+    - year: 2000
+  language: en
+  number-of-pages: '212'
+  publisher: MIT Press
+  publisher-place: Cambridge, Mass
+  source: K10plus ISBN
+  title: Cybernetics or control and communication in the animal and the machine
+  type: book
+
+- id: Wissensmanagement2002
+  author:
+    - family: Pruckner
+      given: Maria
+  citation-key: Wissensmanagement2002
+  issued:
+    - year: 2002
+  language: de
+  publisher: Cwarel Isaf Institute
+  title: Wissensmanagement
+  type: article-journal
+
+- id: woodillUnderstandingUnderstandingEssays2005
+  abstract: >-
+    A review of Understanding Understanding: Essays on Cybernetics and
+    Cognition, Heinz von Foerster, 2003. New York: Springer-Verlag, 362pp. ISBN
+    0387953922. $64.95 USD.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 7
+  author:
+    - family: Woodill
+      given: Gary
+  citation-key: woodillUnderstandingUnderstandingEssays2005
+  container-title: 'Complicity: An International Journal of Complexity and Education'
+  container-title-short: COMPLICITY
+  DOI: 10.29173/cmplct8737
+  ISSN: 17105668, 17105668
+  issue: '1'
+  issued:
+    - year: 2005
+      month: 12
+      day: 1
+  language: en
+  source: DOI.org (Crossref)
+  title: 'Understanding Understanding: Essays on Cybernetics and Cognition'
+  title-short: Understanding Understanding
+  type: article-journal
+  URL: >-
+    https://journals.library.ualberta.ca/complicity/index.php/complicity/article/view/8737
+  volume: '2'
+
+- id: zellwegerEntrepreneursScientistsPragmatist2023
+  abstract: >-
+    Building on pragmatism, we advance an entrepreneur-as-scientist perspective
+    and depict entrepreneurs as engaging in causally inferential action by
+    forming beliefs, testing these beliefs, and responding to the feedback
+    received. However, this sequence of entrepreneurial actions arrives with a
+    set of companion doubts: namely, doubt about productmarket fit, because the
+    entrepreneurs’ beliefs are self-chosen; doubt about feedback validity from
+    false positives or false negatives; and doubt about over- and under-fitting
+    in responses to feedback. We discuss the rationality of heuristics deployed
+    by the entrepreneur to overcome these doubts. Our insights contribute to the
+    microfoundations of entrepreneurial action and strategy by explaining how
+    entrepreneurs generate the information to produce value out of uncertainty.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 1
+  author:
+    - family: Zellweger
+      given: Thomas
+    - family: Zenger
+      given: Todd
+  citation-key: zellwegerEntrepreneursScientistsPragmatist2023
+  container-title: Academy of Management Review
+  container-title-short: AMR
+  DOI: 10.5465/amr.2020.0503
+  ISSN: 0363-7425, 1930-3807
+  issue: '3'
+  issued:
+    - year: 2023
+      month: 7
+  language: en
+  page: 379–408
+  source: DOI.org (Crossref)
+  title: >-
+    Entrepreneurs as Scientists: A Pragmatist Approach to Producing Value Out of
+    Uncertainty
+  title-short: Entrepreneurs as Scientists
+  type: article-journal
+  URL: http://journals.aom.org/doi/full/10.5465/amr.2020.0503
+  volume: '48'
+...
