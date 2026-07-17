@@ -1,0 +1,54 @@
+# -- Hauptmenü (Deutsch) --
+# Das Hauptmenü wird in der Kopfzeile oben auf der Seite angezeigt.
+# Akzeptable Parameter sind name, pageRef, page, url, title, weight.
+# 
+# Die einfachste Menükonfiguration ist die Bereitstellung von:
+#   name = Der Name, der für diesen Menülink angezeigt werden soll
+#   pageRef = Der Identifikator der Seite oder des Abschnitts, zu dem verlinkt wird
+#
+# Standardmäßig ist das Menü alphabetisch sortiert. Dies kann durch die
+# Angabe eines Gewichtungswerts überschrieben werden. Das Menü wird dann nach
+# Gewichtung von niedrig bis hoch sortiert.
+
+#[[main]]
+#  name = "Blog"
+#  pageRef = "posts"
+#  weight = 10
+
+#[[main]]
+#  name = "Übergeordnet"
+#  weight = 20
+
+#[[main]]
+#  name = "Beispiel-Untermenü 1"
+#  parent = "Übergeordnet"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[main]]
+#  name = "Beispiel-Untermenü 2"
+#  parent = "Übergeordnet"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[subnavigation]]
+#  name = "Ein interessantes Thema"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+#[[subnavigation]]
+#  name = "Meine großartige Kategorie"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+#[[main]]
+#  name = "Kategorien"
+#  pageRef = "categories"
+#  weight = 20
+
+[[main]]
+name = "DE Test Menu"
+pageRef = "posts"
+identifier = "hsrnGParLqde"
+weight = 9_998

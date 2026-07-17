@@ -1,0 +1,11 @@
+disabled = false
+locale = "de"
+label = "Deutsch"
+weight = 2
+title = "Blowfish"
+
+[params]
+  displayName = "DE"
+  isoCode = "de"
+  rtl = false
+  dateFormat = "2. January 2006"
