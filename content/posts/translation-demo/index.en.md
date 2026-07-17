@@ -49,3 +49,16 @@ To create multilingual content:
 4. Use the same folder for all language versions
 
 Check the German version of this post for a complete translation example!
+
+
+## Figure Test
+
+{{< figdef num="1" src="./featured.png" caption="The organizational structure of the system." >}}
+
+Mare aliquid cultosque Delius in altera putat soli nostrae sternere vate,
+praestiteris canes. Erat ipse, **de** non tam capiti, pharetra nusquam furiisque
+revertitur. Monuit hostem institerat cervice adsumpserat socios solet ore tecta
+coniuge, alios erit Althaea nullus inmunitamque Thoactes diu et Melaneus?
+
+
+Reference for {{< fig "1" >}}.

@@ -49,3 +49,29 @@ Um mehrsprachige Inhalte zu erstellen:
 4. Verwenden Sie den gleichen Ordner für alle Sprachversionen
 
 Schauen Sie sich die englische Version dieses Beitrags an, um ein vollständiges Übersetzungsbeispiel zu sehen!
+
+## Gleichungen Test
+
+{{< equation "1" >}}
+\dot{\mathbf{x}}_i = (1 - S_i) \big[ -\Gamma (\mathbf{x}_i - \mathbf{x}_i^{(0)}) \big] + S_i \big[ \mathbf{K}_{snap} (\boldsymbol{\xi}_{winner} - \mathbf{x}_i) \big]
+{{< /equation >}}
+
+Mare aliquid cultosque Delius in altera putat soli nostrae sternere vate,
+praestiteris canes. Erat ipse, **de** non tam capiti, pharetra nusquam furiisque
+revertitur. Monuit hostem institerat cervice adsumpserat socios solet ore tecta
+coniuge, alios erit Althaea nullus inmunitamque Thoactes diu et Melaneus?
+
+
+Referenz zur {{< eq "1" >}}.
+
+## Abbildungen Test
+
+{{< figdef num="1" src="featured.de.png" caption="The organizational structure of the system." >}}
+
+Mare aliquid cultosque Delius in altera putat soli nostrae sternere vate,
+praestiteris canes. Erat ipse, **de** non tam capiti, pharetra nusquam furiisque
+revertitur. Monuit hostem institerat cervice adsumpserat socios solet ore tecta
+coniuge, alios erit Althaea nullus inmunitamque Thoactes diu et Melaneus?
+
+
+Referenz zur {{< fig "1" >}}.
