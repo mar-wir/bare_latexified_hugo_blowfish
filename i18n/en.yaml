@@ -1,0 +1,5 @@
+shortcode:
+  figure: "Figure"
+  table: "Table"
+  equation: "Equation"
+  references: "References"

@@ -1,4 +1,4 @@
 {{ $num := .Get 0 }}
 {{ $id := printf "fig-%s" ($num | urlize) }}
 
-<a href="#{{ $id }}" class="figure-ref" data-popover="true" data-figure-id="{{ $id }}" data-no-preview="true">Figure {{ $num }}</a>
+<a href="#{{ $id }}" class="figure-ref" data-popover="true" data-figure-id="{{ $id }}" data-no-preview="true">{{ i18n "shortcode.figure" }} {{ $num }}</a>
