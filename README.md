@@ -2,12 +2,36 @@
 
 This guide documents all the custom shortcodes and additions in this Hugo Blowfish project.
 
+## Basic Dependencies
+
+```bash
+sudo apt install nodejs
+sudo apt install npm 
+sudo npm install -g blowfish-tools
+```
+
+Or use brew on mac.
+
+## This repostory
+
+```bash
+git clone https://github.com/mar-wir/bare_latexified_hugo_blowfish.git
+cd bare_latexified_hugo_blowfish
+git submodule update --init --recursive
+
+```
+
 ## JavaScript Dependencies
 
 Following depenencies must be installed manually via npm:
 
 ### JavaScript Libraries
+
 - **Tippy.js** v6.x (CDN) - Tooltip/popover library for interactive references
+
+```bash
+npm i tippy.js
+```
 
 ## Mathematical Equations
 
@@ -30,6 +54,7 @@ E = mc^2
 ```
 
 **Output:**
+
 - Displays the equation with a tag showing the number
 - LaTeX math is rendered in a math-container div
 - The equation ID is generated from the parameter: `eq-1-1` or `eq-schrodinger`
