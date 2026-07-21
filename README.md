@@ -33,6 +33,36 @@ Following depenencies must be installed manually via npm:
 npm i tippy.js
 ```
 
+## Shortcodes Overview
+
+Here is the updated table with the `{{< bibliography >}}` shortcode separated into its own row for clarity, using standard Markdown table syntax with clear column separators:
+
+| Definition Shortcode | Reference Shortcode | Description |
+| --- | --- | --- |
+| `{{< equation >}}` | `{{< eq >}}` | Defines and cross-references numbered mathematical equations using LaTeX syntax.
+
+ |
+| `{{< figdef >}}` | `{{< fig >}}` | Defines and cross-references numbered image figures with captions and responsive styling.
+
+ |
+| `{{< tabdef >}}` | `{{< tab >}}` | Defines and cross-references numbered tables containing Markdown content and styled captions.
+
+ |
+| `{{< htmlfigdef >}}` | `{{< htmlfig >}}` | Defines and cross-references embedded HTML content (like custom diagrams or widgets) wrapped as a figure.
+
+ |
+| `{{< codelistingdef >}}` | `{{< codelisting >}}` | Defines and cross-references numbered Markdown code blocks with centered captions. |
+| `{{< manimdef >}}` | `{{< manim >}}` | Embeds and cross-references interactive presentations (like Manim slides) within a 16:9 iframe featuring a custom controls popup. |
+| N/A (Uses YAML file) | `{{< citep >}}`, `{{< citet >}}` | Generates inline parenthetical or textual citations based on a CSL JSON/YAML database.
+
+ |
+| N/A | `{{< bibliography >}}` | Automatically generates a formatted bibliography section (typically placed at the end of the post) containing all cited references.
+
+ |
+| `{{< alert >}}` | N/A | Creates styled alert boxes with customizable light/dark mode colors and Font Awesome icons.
+
+ |
+
 ## Mathematical Equations
 
 ### Equation Definition
@@ -176,6 +206,140 @@ The comparison in {{< tab "1" >}} shows that Approach C offers the best balance.
 
 As seen in {{< tab "results" >}}, our findings confirm the hypothesis.
 ```
+
+---
+
+## Code Listings & References
+
+### Code Listing Definition
+
+**Shortcode:** `{{< codelistingdef >}}`
+
+Define numbered code blocks with captions. This shortcode provides a structured wrapper around standard Markdown code fences.
+
+**Parameters:**
+
+* **num** (required): Listing number or identifier (e.g., "1", "2.1", "auth-script")
+* **caption** (required): Descriptive text displayed below the code
+
+**Usage:**
+
+```markdown
+{{< codelistingdef num="1" caption="A simple Python function" >}}
+```python
+def hello_world():
+    print("Hello, World!")
+_```
+{{< /codelistingdef >}}
+```
+
+**Features:**
+
+* Wraps inner Markdown code blocks inside a styled `<figure>` element.
+* Maintains left-aligned formatting for the code while perfectly centering the caption below it.
+* Automatically generates a unique ID for cross-referencing (e.g., `code-1`).
+
+### Code Listing References
+
+**Shortcode:** `{{< codelisting >}}`
+
+Create clickable references to code listings defined elsewhere on the page.
+
+**Usage:**
+
+```markdown
+As demonstrated in {{< codelisting "1" >}}, the print function outputs text to the console.
+
+The authentication flow is handled by {{< codelisting "auth-script" >}}.
+
+```
+
+**Features:**
+
+* Creates a clickable internal link (e.g., "Listing 1").
+* Triggers a Tippy.js popover preview on hover, displaying the entire code block and its caption in a scrollable window.
+* Links directly to the identifier defined in `{{< codelistingdef >}}`.
+
+---
+
+## Presentations & Manim Slides
+
+### Presentation Definition
+
+**Shortcode:** `{{< manim-slidedef >}}` 
+
+Embed interactive presentations, such as Manim slides or external slide decks, within a styled viewport. See [here](https://manim-slides.eertmans.be/latest/) for more information about manim slides.
+
+The manim slides must be created as following:
+1. Render slides with `--one-file` and `--offline` flags.
+
+```bash
+manim example.py SCENE # or manimgl example SCENE
+manim-slides convert SCENE scene.html -ccontrols=true --one-file --offline
+```
+2. Place the resulting html file in the `static/slides/` directory. You might have to create those folders first.
+
+**Parameters:**
+
+* **num** (required): The presentation number or identifier used for cross-referencing.
+
+
+* **src** (required): The URL source of the presentation (e.g., HTML file or external link) loaded into the iframe.
+
+
+* **caption** (required): Descriptive text displayed beneath the presentation.
+
+
+
+**Usage:**
+
+```markdown
+{{< manim-slidedef num="1" src="/slides/intro-presentation.html" caption="Introduction to Vector Mathematics" >}}
+```
+
+**Features:**
+
+* Renders an embedded iframe with a responsive 16:9 aspect ratio, rounded corners, and a subtle drop shadow.
+
+
+* Includes a dedicated **"Fullscreen"** button that requests fullscreen mode specifically for the presentation iframe.
+
+
+* Features a **"Controls"** toggle button that reveals an interactive, glassmorphism-styled (blurred background) popup listing keyboard shortcuts.
+
+
+* The controls popup automatically hides after 5 seconds of inactivity, when clicking away, or when an active presentation shortcut key (like Space, F, or arrow keys) is pressed.
+
+
+* Automatically generates an HTML ID formatted as `pres-{num}` to allow for direct linking.
+
+
+* Creates a centered `<figcaption>` that automatically pulls the localized "Presentation" string via Hugo's `i18n` function.
+
+
+
+### Presentation References
+
+**Shortcode:** `{{< manim-slide >}}`
+
+Create standard, clickable internal anchor links to presentations defined elsewhere on the page.
+
+**Usage:**
+
+```markdown
+As we can see in the interactive demonstration within {{< manim-slide "1" >}}, the vectors align perfectly.
+
+```
+
+**Features:**
+
+* Generates a clickable link displaying "Presentation {num}" (localized via `i18n`).
+
+
+* Navigates directly to the `pres-{num}` ID generated by the definition shortcode.
+
+
+* *Note: Unlike figures and code listings, this reference shortcode currently outputs a standard `<a class="pres-ref">` link and does not trigger a Tippy.js popover preview*.
 
 ---
 
