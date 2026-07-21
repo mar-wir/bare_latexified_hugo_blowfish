@@ -40,28 +40,15 @@ Here is the updated table with the `{{< bibliography >}}` shortcode separated in
 | Definition Shortcode | Reference Shortcode | Description |
 | --- | --- | --- |
 | `{{< equation >}}` | `{{< eq >}}` | Defines and cross-references numbered mathematical equations using LaTeX syntax.
-
- |
 | `{{< figdef >}}` | `{{< fig >}}` | Defines and cross-references numbered image figures with captions and responsive styling.
-
- |
 | `{{< tabdef >}}` | `{{< tab >}}` | Defines and cross-references numbered tables containing Markdown content and styled captions.
-
- |
 | `{{< htmlfigdef >}}` | `{{< htmlfig >}}` | Defines and cross-references embedded HTML content (like custom diagrams or widgets) wrapped as a figure.
-
- |
 | `{{< codelistingdef >}}` | `{{< codelisting >}}` | Defines and cross-references numbered Markdown code blocks with centered captions. |
 | `{{< manimdef >}}` | `{{< manim >}}` | Embeds and cross-references interactive presentations (like Manim slides) within a 16:9 iframe featuring a custom controls popup. |
 | N/A (Uses YAML file) | `{{< citep >}}`, `{{< citet >}}` | Generates inline parenthetical or textual citations based on a CSL JSON/YAML database.
-
- |
 | N/A | `{{< bibliography >}}` | Automatically generates a formatted bibliography section (typically placed at the end of the post) containing all cited references.
-
- |
 | `{{< alert >}}` | N/A | Creates styled alert boxes with customizable light/dark mode colors and Font Awesome icons.
 
- |
 
 ## Mathematical Equations
 
