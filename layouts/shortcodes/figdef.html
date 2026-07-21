@@ -3,8 +3,18 @@
 {{ $cap := .Get "caption" }}
 {{ $id := printf "fig-%s" ($num | urlize) }}
 
+<!-- Force path resolution so it survives cross-page popups -->
+{{ $resolvedSrc := $src }}
+{{ $res := .Page.Resources.GetMatch $src }}
+{{ if $res }}
+{{ $resolvedSrc = $res.RelPermalink }}
+{{ else if not (urls.Parse $src).IsAbs }}
+{{ $resolvedSrc = $src | relURL }}
+{{ end }}
+
 <figure id="{{ $id }}" style="text-align: center; margin: 2.5rem 0;">
-  <img src="{{ $src }}" alt="{{ $cap }}" style="max-width: 100%; height: auto; border-radius: 8px; display: inline-block;">
+  <img src="{{ $resolvedSrc }}" alt="{{ $cap }}"
+    style="max-width: 100%; height: auto; border-radius: 8px; display: inline-block;">
   <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: var(--color-neutral-600);">
     <strong>{{ i18n "shortcode.figure" }} {{ $num }}:</strong> {{ $cap }}
   </figcaption>

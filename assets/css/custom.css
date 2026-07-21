@@ -4,7 +4,7 @@
 
 /* When zen mode is NOT enabled: narrow article for focused reading */
 body:not(.zen-mode-enable) .article-content {
-  max-width: 65ch !important;
+  max-width: 85ch !important;
 }
 
 /* When zen mode IS enabled: wide article for expanded view */

@@ -71,3 +71,7 @@ weight = 10
 [security]
 allowContent = ['! ^text$']
 enableInlineShortcodes = true
+
+[markup]
+[markup.highlight]
+lineNos = true
