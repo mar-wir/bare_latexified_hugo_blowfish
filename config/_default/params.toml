@@ -89,10 +89,11 @@ showLikes = false
 showTableOfContents = false
 showCards = false
 orderByWeight = false
-groupByYear = true
+groupByYear = false
 cardView = false
-cardViewScreenWidth = false
+cardViewScreenWidth = true
 constrainItemsWidth = false
+heroStyle = ""
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]

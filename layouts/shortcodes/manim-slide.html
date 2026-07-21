@@ -1,0 +1,4 @@
+{{ $num := .Get 0 }}
+{{ $id := printf "pres-%s" ($num | urlize) }}
+
+<a href="#{{ $id }}" class="pres-ref">{{ i18n "shortcode.presentation" }} {{ $num }}</a>

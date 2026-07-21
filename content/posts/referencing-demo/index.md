@@ -11,6 +11,13 @@ tags =["demo", "referencing"]
 Lorem markdownum ambo condidit? Et vivum ambiguum superata, male lapsi nostri in
 aut pavida.
 
+{{< codelistingdef num="1" caption="A simple greeting function in Python." >}}
+```python
+def hello():
+    print("Hello, world!")
+```
+{{< /codelistingdef >}}
+
 It is posited that organizations and individuals rarely begin with a strictly defined Metric Space ($\mathbb{R}^M$). In their nascent stages, they operate within a **Semantic Topological Space** ($\mathcal{T}$). Here, goals are not precise coordinates, but verbally stated orientations or "general areas" of intent. The agents possess an intuitive sense of direction, but lack the formal axes to measure it.
 
 Utque bracchiaque habet ferventisque poena sororem alios omine tabellae prendere
@@ -33,9 +40,10 @@ This aligns with previous theories of organizational complexity {{< citep "espej
 
 Virgine iungat, dum at annos vires gerebant terrae canis temeraria sese; ope
 isdem. This is a inline reference to {{< eq "1" >}}.
-Quae parvo lacertis Eueninae, vitatumque clade sublimis, unguis: **in
-Aethalion** ventis denique. Iurasse satyros adorat in in vitant nemus; vita
-agitur ficti, altos perculit se sequente formosissima. Novam nocet dictis fulmen
+Quae parvo lacertis Eueninae, vitatumque clade sublimis, unguis: **in Aethalion** ventis denique. 
+
+Iurasse satyros adorat in in vitant nemus; vita
+agitur ficti, altos perculit se sequente formosissima. As shown in {{< codelisting "1" >}}, the function outputs a basic message. Novam nocet dictis fulmen
 cuncta Haemoniae parat inpositus nobiscum temporis in vincit sensisset Glauci
 das stirpe. Aurora `horse_radcab_character` nunc ducite dixit nomen pomi
 geminata `denial`: tamen nova frequens.
@@ -72,7 +80,7 @@ Unus seges Subaris alatur divamque Peneia, tua `webForumRam` repugnat poenam non
 avoque Claninque abis. *Tam hoc munera* dum cumque peragant arbor resto poenas
 distantibus *colla praecipiunt* concutit aptabat per pectora rector.
 
-{{< figdef num="1" src="featured.png" caption="The organizational structure of the system." >}}
+{{< figdef num="1" src="rotating.gif" caption="A rotating coordinate system." >}}
 
     computer += menu;
     plagiarism(bare_header.localhost_open(4) + ipvCharacter,

@@ -19,8 +19,10 @@ body.zen-mode-enable .article-content {
 /* 1. Default Light Mode Styles */
 .tippy-box {
   background-color: #ffffff !important;
-  color: #171717 !important;            /* Tailwind neutral-900 */
-  border: 1px solid #e5e5e5 !important; /* Tailwind neutral-200 */
+  color: #171717 !important;
+  /* Tailwind neutral-900 */
+  border: 1px solid #e5e5e5 !important;
+  /* Tailwind neutral-200 */
   box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1) !important;
   border-radius: 8px !important;
   transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
@@ -33,9 +35,12 @@ body.zen-mode-enable .article-content {
 
 /* 2. Dark Mode (Triggered natively by Blowfish's <html> class) */
 html.dark .tippy-box {
-  background-color: #171717 !important; /* Tailwind neutral-900 */
-  color: #f5f5f5 !important;            /* Tailwind neutral-100 */
-  border: 1px solid #404040 !important; /* Tailwind neutral-700 */
+  background-color: #171717 !important;
+  /* Tailwind neutral-900 */
+  color: #f5f5f5 !important;
+  /* Tailwind neutral-100 */
+  border: 1px solid #404040 !important;
+  /* Tailwind neutral-700 */
   box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5) !important;
 }
 
@@ -49,15 +54,20 @@ html.dark .tippy-arrow {
 .custom-scrollbar::-webkit-scrollbar {
   width: 6px;
 }
+
 .custom-scrollbar::-webkit-scrollbar-track {
   background: transparent;
 }
+
 .custom-scrollbar::-webkit-scrollbar-thumb {
-  background-color: #d4d4d4; /* Tailwind neutral-300 */
+  background-color: #d4d4d4;
+  /* Tailwind neutral-300 */
   border-radius: 10px;
 }
+
 html.dark .custom-scrollbar::-webkit-scrollbar-thumb {
-  background-color: #525252; /* Tailwind neutral-600 */
+  background-color: #525252;
+  /* Tailwind neutral-600 */
 }
 
 /* Ensure padding inside the tooltip doesn't restrict the layout */
@@ -67,29 +77,34 @@ html.dark .custom-scrollbar::-webkit-scrollbar-thumb {
 
 /* Override Tippy's strict width and padding constraints */
 .tippy-box {
-  max-width: none !important; /* Forces Tippy to allow wide popups */
+  max-width: none !important;
+  /* Forces Tippy to allow wide popups */
 }
 
 .tippy-content {
-  padding: 8px !important;    /* Replaces Tippy's default padding so our scrollbar touches the edge */
+  padding: 8px !important;
+  /* Replaces Tippy's default padding so our scrollbar touches the edge */
 }
 
 /* Update: Ensure the popup container is flexible but doesn't scroll */
 .tippy-box {
-    max-width: 90vw !important; /* Never wider than the screen */
-    width: max-content !important; /* Shrink-wrap to content width */
+  max-width: 90vw !important;
+  /* Never wider than the screen */
+  width: max-content !important;
+  /* Shrink-wrap to content width */
 }
 
 /* Update: Remove block-level constraints that force horizontal overflow */
 .tippy-box .math-container {
-    display: inline-block !important;
-    white-space: nowrap !important; /* Keep the math on one line */
+  display: inline-block !important;
+  white-space: nowrap !important;
+  /* Keep the math on one line */
 }
 
 /* Ensure the Katex wrapper inside doesn't enforce strict sizing */
 .tippy-box .katex-display {
-    overflow-x: visible !important;
-    margin: 0 !important;
+  overflow-x: visible !important;
+  margin: 0 !important;
 }
 
 /* ==========================================================================
@@ -97,50 +112,53 @@ html.dark .custom-scrollbar::-webkit-scrollbar-thumb {
    ========================================================================== */
 
 .hugo-table-figure {
-    text-align: center;
-    margin: 2.5rem 0;
+  text-align: center;
+  margin: 2.5rem 0;
 }
 
 .hugo-table-wrapper {
-    overflow-x: auto;
-    margin-bottom: 0;
-    display: inline-block;
-    max-width: 100%;
+  overflow-x: auto;
+  margin-bottom: 0;
+  display: inline-block;
+  max-width: 100%;
 }
 
 .hugo-table-wrapper table {
-    margin: 0;
-    width: auto;
+  margin: 0;
+  width: auto;
 }
 
 .hugo-table-caption {
-    font-size: 0.9rem;
-    color: var(--color-neutral-600);
-    margin-top: 0.2rem;
+  font-size: 0.9rem;
+  color: var(--color-neutral-600);
+  margin-top: 0.2rem;
 }
 
 html.dark .hugo-table-caption {
-    color: var(--color-neutral-400);
+  color: var(--color-neutral-400);
 }
 
 /* Zen mode compatibility: adjust for narrower viewports */
 @media (max-width: 768px) {
-    .hugo-table-figure {
-        margin: 2rem 0;
-    }
-    
-    .hugo-table-wrapper {
-        margin-bottom: 0.4rem;
-    }
+  .hugo-table-figure {
+    margin: 2rem 0;
+  }
+
+  .hugo-table-wrapper {
+    margin-bottom: 0.4rem;
+  }
 }
 
 /* Hide scrollbar visually but keep functionality */
 .hugo-table-wrapper::-webkit-scrollbar {
-    display: none;
+  display: none;
 }
+
 .hugo-table-wrapper {
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;     /* Firefox */
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
 }
 
 /* ==========================================================================
@@ -149,27 +167,27 @@ html.dark .hugo-table-caption {
 
 /* Custom alert with light/dark theme colors */
 .alert-custom {
-    background-color: var(--alert-bg-light, #e0e7ff);
+  background-color: var(--alert-bg-light, #e0e7ff);
 }
 
 html.dark .alert-custom {
-    background-color: var(--alert-bg-dark, #1a1a1a);
+  background-color: var(--alert-bg-dark, #1a1a1a);
 }
 
 /* Custom alert icon colors */
 .alert-icon-custom {
-    color: var(--icon-color-light, #4f46e5);
+  color: var(--icon-color-light, #4f46e5);
 }
 
 html.dark .alert-icon-custom {
-    color: var(--icon-color-dark, #a5b4fc);
+  color: var(--icon-color-dark, #a5b4fc);
 }
 
 /* Custom alert text colors */
 .alert-text-custom {
-    color: var(--text-color-light, #1e293b);
+  color: var(--text-color-light, #1e293b);
 }
 
 html.dark .alert-text-custom {
-    color: var(--text-color-dark, #f1f5f9);
+  color: var(--text-color-dark, #f1f5f9);
 }

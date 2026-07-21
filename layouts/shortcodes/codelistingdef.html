@@ -1,0 +1,12 @@
+{{ $num := .Get "num" }}
+{{ $cap := .Get "caption" }}
+{{ $id := printf "code-%s" ($num | urlize) }}
+
+<figure id="{{ $id }}" class="hugo-code-figure" style="margin: 2.5rem 0;">
+    <div class="hugo-code-wrapper">
+        {{ .Inner | markdownify }}
+    </div>
+    <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: var(--color-neutral-600); text-align: left;">
+        <strong>Listing {{ $num }}:</strong> {{ $cap }}
+    </figcaption>
+</figure>

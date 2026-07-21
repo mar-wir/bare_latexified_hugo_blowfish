@@ -1,0 +1,4 @@
+{{ $num := .Get 0 }}
+{{ $id := printf "code-%s" ($num | urlize) }}
+
+<a href="#{{ $id }}" class="code-ref">Listing {{ $num }}</a>
