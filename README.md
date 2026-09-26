@@ -1,3 +1,6 @@
+This repo is archived. There is a updated version on another platform. For reference only.
+
+
 # Custom Shortcodes & Additions Documentation
 
 This guide documents all the custom shortcodes and additions in this Hugo Blowfish project.
